@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+torch
+transformers
+langchain
+langchain_together
+langchain-huggingface
+langchain_community
+scikit-learn
+einops
+pandas
+joblib
+nomic
+fpdf
+python-docx
+cloudinary

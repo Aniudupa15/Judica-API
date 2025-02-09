@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+__pycache__
+*.pyc
+*.pyo
+
+# Ignore the training folder if it's not needed in the Docker image
+training/
+
+# Optionally, ignore other unnecessary files
+.dockerignore
+*.log
+*.git

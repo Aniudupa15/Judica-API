@@ -1,0 +1,1001 @@
+case_id,statute,offense_category,penalty,imprisonment_duration_served,risk_of_escape,risk_of_influence,surety_bond_required,personal_bond_required,fines_applicable,served_half_term,bail_eligibility,risk_score,penalty_severity
+1,NDPS,Crimes Against Children,Fine,50,False,False,True,False,True,False,False,0,50
+2,SCST Act,Crimes Against Children,Both,117,False,False,True,True,True,False,False,0,351
+3,PMLA,Crimes Against Children,Fine,68,False,False,False,False,True,False,False,0,68
+4,SCST Act,Crimes Against Children,Both,106,False,False,False,False,True,True,True,1,318
+5,SCST Act,Offences Against the State,Imprisonment,71,False,False,False,True,True,False,False,0,142
+6,CrPC,Offences Against the State,Imprisonment,86,False,True,True,True,False,False,False,1,172
+7,PMLA,Crimes Against Foreigners,Both,119,False,True,True,False,False,True,False,2,357
+8,PMLA,Crimes Against SCs and STs,Imprisonment,33,False,False,False,False,False,False,False,0,66
+9,PMLA,Cyber Crime,Imprisonment,81,False,True,True,True,True,False,False,1,162
+10,SCST Act,Crimes Against Children,Imprisonment,24,False,True,True,False,True,False,False,1,48
+11,NDPS,Crimes Against Foreigners,Imprisonment,61,False,True,False,True,True,False,False,1,122
+12,PMLA,Crimes Against SCs and STs,Both,61,False,False,False,False,False,False,False,0,183
+13,SCST Act,Cyber Crime,Fine,98,False,True,False,False,True,True,False,2,98
+14,CrPC,Economic Offence,Fine,28,False,True,True,True,True,True,False,2,28
+15,NDPS,Crimes Against Women,Imprisonment,58,False,True,True,True,False,True,False,2,116
+16,CrPC,Offences Against the State,Fine,43,False,False,True,True,True,False,False,0,43
+17,NDPS,Economic Offence,Fine,41,True,True,True,False,False,True,False,3,41
+18,SCST Act,Cyber Crime,Imprisonment,39,False,True,True,False,False,False,False,1,78
+19,IPC,Economic Offence,Imprisonment,86,True,False,False,False,True,False,False,1,172
+20,NDPS,Crimes Against Women,Fine,49,False,False,True,False,False,False,False,0,49
+21,CrPC,Crimes Against Foreigners,Both,17,False,True,True,True,True,True,False,2,51
+22,SCST Act,Cyber Crime,Imprisonment,98,True,True,True,False,False,True,False,3,196
+23,NDPS,Economic Offence,Both,70,False,False,False,False,True,True,True,1,210
+24,IPC,Offences Against the State,Fine,110,True,False,False,False,False,False,False,1,110
+25,IPC,Offences Against the State,Imprisonment,70,True,False,False,True,True,True,False,2,140
+26,PMLA,Crimes Against SCs and STs,Both,98,True,False,True,False,False,False,False,1,294
+27,PMLA,Economic Offence,Imprisonment,65,False,False,False,False,False,True,True,1,130
+28,CrPC,Crimes Against Children,Fine,74,False,False,False,True,False,True,True,1,74
+29,NDPS,Economic Offence,Both,85,False,False,False,False,True,False,False,0,255
+30,NDPS,Crimes Against Foreigners,Fine,5,True,True,True,False,True,False,False,2,5
+31,PMLA,Cyber Crime,Fine,2,True,False,False,True,False,True,False,2,2
+32,NDPS,Cyber Crime,Imprisonment,22,False,False,True,False,True,True,True,1,44
+33,NDPS,Crimes Against Foreigners,Both,112,False,True,True,False,False,True,False,2,336
+34,IPC,Economic Offence,Fine,57,False,False,False,False,True,False,False,0,57
+35,PMLA,Crimes Against Foreigners,Fine,66,False,False,True,True,False,False,False,0,66
+36,SCST Act,Crimes Against Women,Both,74,False,True,False,False,True,True,False,2,222
+37,PMLA,Crimes Against Foreigners,Fine,98,True,False,True,False,False,True,False,2,98
+38,SCST Act,Offences Against the State,Fine,16,True,True,False,True,False,False,False,2,16
+39,IPC,Crimes Against Foreigners,Both,112,True,True,False,True,False,True,False,3,336
+40,CrPC,Cyber Crime,Both,51,False,True,False,False,False,False,False,1,153
+41,NDPS,Offences Against the State,Both,39,True,True,True,False,True,False,False,2,117
+42,IPC,Cyber Crime,Both,86,True,False,False,False,False,False,False,1,258
+43,NDPS,Crimes Against SCs and STs,Imprisonment,76,True,True,True,False,True,False,False,2,152
+44,CrPC,Crimes Against Children,Both,88,True,True,False,True,True,False,False,2,264
+45,CrPC,Cyber Crime,Imprisonment,111,True,False,True,False,False,False,False,1,222
+46,IPC,Offences Against the State,Imprisonment,40,False,True,True,True,True,True,False,2,80
+47,CrPC,Crimes Against SCs and STs,Imprisonment,38,True,True,False,True,True,False,False,2,76
+48,SCST Act,Cyber Crime,Fine,60,False,True,False,False,True,False,False,1,60
+49,CrPC,Crimes Against Women,Imprisonment,59,False,True,False,False,False,True,False,2,118
+50,NDPS,Crimes Against Foreigners,Imprisonment,10,False,False,False,True,True,False,False,0,20
+51,NDPS,Crimes Against Children,Fine,99,False,True,False,True,True,True,False,2,99
+52,NDPS,Cyber Crime,Fine,64,False,False,True,False,False,False,False,0,64
+53,NDPS,Crimes Against SCs and STs,Fine,115,True,False,False,True,False,True,False,2,115
+54,SCST Act,Crimes Against Women,Both,63,True,True,False,False,True,True,False,3,189
+55,PMLA,Economic Offence,Fine,49,False,True,True,False,False,False,False,1,49
+56,IPC,Crimes Against SCs and STs,Fine,64,False,True,False,True,True,False,False,1,64
+57,NDPS,Crimes Against Foreigners,Imprisonment,32,False,True,False,True,True,False,False,1,64
+58,CrPC,Crimes Against SCs and STs,Fine,7,True,False,True,False,True,False,False,1,7
+59,NDPS,Crimes Against Women,Both,21,False,False,False,True,False,True,True,1,63
+60,CrPC,Crimes Against SCs and STs,Fine,20,True,False,False,False,True,True,False,2,20
+61,CrPC,Crimes Against Women,Both,26,False,True,False,False,False,True,False,2,78
+62,NDPS,Cyber Crime,Fine,68,True,False,True,False,False,False,False,1,68
+63,SCST Act,Crimes Against Women,Fine,110,False,True,False,True,True,True,False,2,110
+64,CrPC,Crimes Against Women,Fine,116,True,True,True,False,False,False,False,2,116
+65,CrPC,Crimes Against Children,Fine,86,False,True,False,False,False,False,False,1,86
+66,NDPS,Crimes Against Women,Both,15,True,True,True,False,False,True,False,3,45
+67,CrPC,Crimes Against Women,Both,104,True,True,False,False,False,False,False,2,312
+68,CrPC,Economic Offence,Imprisonment,85,True,False,True,False,False,True,False,2,170
+69,NDPS,Cyber Crime,Both,79,True,False,True,False,True,False,False,1,237
+70,NDPS,Crimes Against Foreigners,Fine,86,True,True,True,False,False,True,False,3,86
+71,IPC,Crimes Against Children,Imprisonment,116,True,False,True,False,True,False,False,1,232
+72,SCST Act,Economic Offence,Imprisonment,92,True,True,True,False,True,True,False,3,184
+73,SCST Act,Offences Against the State,Imprisonment,14,False,True,True,False,True,True,False,2,28
+74,CrPC,Cyber Crime,Fine,27,False,True,False,False,True,False,False,1,27
+75,SCST Act,Cyber Crime,Both,105,False,False,False,True,True,False,False,0,315
+76,CrPC,Offences Against the State,Fine,40,False,True,True,False,True,True,False,2,40
+77,IPC,Crimes Against Foreigners,Imprisonment,58,False,True,True,False,False,False,False,1,116
+78,NDPS,Crimes Against Women,Fine,28,True,False,True,False,False,False,False,1,28
+79,NDPS,Economic Offence,Fine,26,True,False,True,True,False,False,False,1,26
+80,NDPS,Crimes Against SCs and STs,Both,113,True,False,False,False,True,True,False,2,339
+81,SCST Act,Crimes Against Children,Both,63,True,True,True,True,False,True,False,3,189
+82,IPC,Crimes Against SCs and STs,Imprisonment,66,True,True,False,False,False,False,False,2,132
+83,SCST Act,Offences Against the State,Fine,25,False,False,False,False,False,False,False,0,25
+84,SCST Act,Cyber Crime,Fine,3,False,True,True,True,True,True,False,2,3
+85,IPC,Crimes Against Foreigners,Both,72,False,False,True,False,False,False,False,0,216
+86,IPC,Cyber Crime,Fine,44,False,False,False,True,True,True,True,1,44
+87,IPC,Crimes Against Children,Fine,97,True,True,False,True,False,False,False,2,97
+88,IPC,Cyber Crime,Fine,42,True,True,True,False,True,False,False,2,42
+89,NDPS,Cyber Crime,Both,116,True,False,True,False,True,False,False,1,348
+90,PMLA,Crimes Against Children,Imprisonment,99,False,False,True,False,True,True,True,1,198
+91,PMLA,Economic Offence,Imprisonment,6,True,False,False,False,False,True,False,2,12
+92,IPC,Economic Offence,Fine,39,False,False,False,True,False,True,True,1,39
+93,PMLA,Crimes Against Children,Imprisonment,52,True,True,True,True,True,True,False,3,104
+94,PMLA,Crimes Against Foreigners,Both,23,True,False,False,False,False,False,False,1,69
+95,IPC,Offences Against the State,Both,89,False,False,False,True,True,False,False,0,267
+96,PMLA,Cyber Crime,Imprisonment,50,True,False,True,True,True,True,False,2,100
+97,SCST Act,Crimes Against Foreigners,Imprisonment,43,True,True,True,False,False,False,False,2,86
+98,CrPC,Cyber Crime,Fine,19,False,True,False,True,False,False,False,1,19
+99,CrPC,Offences Against the State,Imprisonment,69,True,False,False,True,False,True,False,2,138
+100,IPC,Economic Offence,Fine,51,False,True,True,False,True,False,False,1,51
+101,NDPS,Crimes Against Foreigners,Fine,11,True,True,True,True,True,False,False,2,11
+102,IPC,Crimes Against Women,Both,12,True,True,True,False,False,True,False,3,36
+103,NDPS,Crimes Against Women,Both,74,True,False,True,True,True,False,False,1,222
+104,CrPC,Crimes Against Women,Both,8,True,False,True,False,False,False,False,1,24
+105,IPC,Economic Offence,Both,24,True,True,False,True,True,False,False,2,72
+106,SCST Act,Economic Offence,Imprisonment,92,True,False,False,True,False,True,False,2,184
+107,PMLA,Offences Against the State,Both,41,True,False,False,False,False,True,False,2,123
+108,NDPS,Cyber Crime,Imprisonment,36,True,True,False,False,True,False,False,2,72
+109,PMLA,Offences Against the State,Both,101,False,True,True,False,False,False,False,1,303
+110,PMLA,Offences Against the State,Imprisonment,85,False,False,True,False,False,False,False,0,170
+111,IPC,Economic Offence,Fine,72,True,True,True,True,True,True,False,3,72
+112,PMLA,Crimes Against Women,Imprisonment,55,True,False,False,True,False,True,False,2,110
+113,SCST Act,Crimes Against SCs and STs,Imprisonment,9,False,False,False,True,True,True,True,1,18
+114,PMLA,Cyber Crime,Both,47,True,True,False,False,False,False,False,2,141
+115,IPC,Economic Offence,Imprisonment,15,True,False,True,True,True,False,False,1,30
+116,SCST Act,Crimes Against Women,Fine,48,False,False,False,True,False,False,False,0,48
+117,CrPC,Crimes Against Foreigners,Fine,110,True,True,True,False,False,False,False,2,110
+118,PMLA,Crimes Against SCs and STs,Both,104,True,True,True,False,False,False,False,2,312
+119,IPC,Crimes Against SCs and STs,Fine,82,False,True,True,True,False,True,False,2,82
+120,CrPC,Economic Offence,Imprisonment,42,True,False,True,False,True,False,False,1,84
+121,CrPC,Crimes Against Children,Fine,60,True,True,True,True,True,False,False,2,60
+122,NDPS,Cyber Crime,Both,84,False,True,True,True,True,False,False,1,252
+123,SCST Act,Crimes Against SCs and STs,Imprisonment,70,True,True,False,False,True,True,False,3,140
+124,PMLA,Economic Offence,Both,12,False,True,True,True,True,False,False,1,36
+125,IPC,Economic Offence,Imprisonment,2,True,False,True,False,True,True,False,2,4
+126,NDPS,Crimes Against Women,Fine,7,True,False,False,False,True,True,False,2,7
+127,SCST Act,Crimes Against Foreigners,Both,80,False,True,True,True,False,True,False,2,240
+128,NDPS,Crimes Against Children,Both,3,False,False,False,True,False,True,True,1,9
+129,SCST Act,Cyber Crime,Imprisonment,109,True,True,False,True,False,True,False,3,218
+130,SCST Act,Offences Against the State,Both,3,False,True,False,False,False,False,False,1,9
+131,PMLA,Crimes Against Foreigners,Imprisonment,27,False,False,True,True,True,False,False,0,54
+132,SCST Act,Crimes Against Foreigners,Imprisonment,114,True,False,True,False,True,True,False,2,228
+133,NDPS,Crimes Against Women,Imprisonment,107,True,True,False,False,True,True,False,3,214
+134,SCST Act,Crimes Against SCs and STs,Imprisonment,40,True,True,True,True,False,True,False,3,80
+135,PMLA,Crimes Against SCs and STs,Fine,102,False,False,True,False,True,False,False,0,102
+136,PMLA,Crimes Against Women,Imprisonment,33,False,True,False,True,False,False,False,1,66
+137,NDPS,Economic Offence,Both,92,False,False,False,True,True,True,True,1,276
+138,CrPC,Crimes Against SCs and STs,Fine,1,False,True,True,True,True,False,False,1,1
+139,CrPC,Crimes Against Children,Both,119,True,True,False,True,True,False,False,2,357
+140,SCST Act,Cyber Crime,Fine,8,False,False,False,True,True,True,True,1,8
+141,IPC,Crimes Against Foreigners,Imprisonment,101,True,False,False,True,False,True,False,2,202
+142,SCST Act,Crimes Against Foreigners,Fine,32,False,False,True,True,False,False,False,0,32
+143,NDPS,Crimes Against Children,Fine,48,True,False,True,False,True,False,False,1,48
+144,NDPS,Crimes Against SCs and STs,Both,107,True,False,True,True,False,False,False,1,321
+145,NDPS,Crimes Against Foreigners,Both,101,True,False,False,False,True,True,False,2,303
+146,NDPS,Offences Against the State,Imprisonment,4,False,False,True,False,True,True,True,1,8
+147,NDPS,Cyber Crime,Fine,94,True,True,False,False,True,True,False,3,94
+148,PMLA,Cyber Crime,Fine,70,True,True,True,True,True,False,False,2,70
+149,CrPC,Crimes Against Foreigners,Fine,110,False,True,True,False,False,False,False,1,110
+150,NDPS,Crimes Against Women,Imprisonment,118,True,False,False,False,True,True,False,2,236
+151,IPC,Crimes Against Foreigners,Imprisonment,19,False,False,True,True,True,False,False,0,38
+152,IPC,Crimes Against Women,Imprisonment,32,False,False,False,True,False,True,True,1,64
+153,IPC,Crimes Against Foreigners,Imprisonment,9,True,True,True,False,True,False,False,2,18
+154,IPC,Offences Against the State,Imprisonment,12,True,False,True,True,False,True,False,2,24
+155,PMLA,Economic Offence,Both,11,False,False,False,True,True,False,False,0,33
+156,IPC,Cyber Crime,Fine,46,True,True,False,True,True,False,False,2,46
+157,NDPS,Crimes Against Foreigners,Fine,119,False,False,False,True,True,True,True,1,119
+158,SCST Act,Offences Against the State,Fine,16,False,True,True,False,True,True,False,2,16
+159,IPC,Crimes Against Women,Fine,1,False,True,True,True,True,True,False,2,1
+160,PMLA,Crimes Against Women,Fine,63,True,False,True,True,True,True,False,2,63
+161,PMLA,Cyber Crime,Fine,109,False,False,False,True,False,True,True,1,109
+162,IPC,Crimes Against Children,Fine,119,True,False,False,False,True,False,False,1,119
+163,SCST Act,Crimes Against Foreigners,Fine,117,True,True,False,False,False,True,False,3,117
+164,IPC,Crimes Against SCs and STs,Both,21,True,True,True,True,False,True,False,3,63
+165,PMLA,Crimes Against Women,Fine,30,True,True,True,True,True,True,False,3,30
+166,CrPC,Economic Offence,Both,13,False,False,False,False,False,True,True,1,39
+167,NDPS,Economic Offence,Imprisonment,34,True,False,True,True,True,True,False,2,68
+168,PMLA,Crimes Against Women,Fine,4,False,False,False,True,False,False,False,0,4
+169,IPC,Crimes Against Children,Imprisonment,28,False,False,True,False,True,True,True,1,56
+170,NDPS,Crimes Against Children,Imprisonment,102,True,True,True,True,False,True,False,3,204
+171,IPC,Offences Against the State,Imprisonment,95,False,True,False,True,False,True,False,2,190
+172,IPC,Economic Offence,Both,59,False,True,True,False,True,False,False,1,177
+173,CrPC,Offences Against the State,Imprisonment,119,True,True,True,False,False,False,False,2,238
+174,NDPS,Economic Offence,Imprisonment,27,False,False,False,True,True,True,True,1,54
+175,NDPS,Crimes Against Foreigners,Imprisonment,69,False,False,False,False,True,True,True,1,138
+176,CrPC,Crimes Against Foreigners,Fine,25,False,False,True,True,True,False,False,0,25
+177,PMLA,Crimes Against SCs and STs,Fine,3,False,True,False,True,True,False,False,1,3
+178,IPC,Crimes Against Foreigners,Both,97,True,True,True,True,True,False,False,2,291
+179,SCST Act,Crimes Against SCs and STs,Both,68,False,False,False,False,False,True,True,1,204
+180,IPC,Crimes Against Foreigners,Fine,25,False,False,True,False,False,True,True,1,25
+181,IPC,Cyber Crime,Both,20,False,True,True,True,False,False,False,1,60
+182,PMLA,Crimes Against Foreigners,Fine,34,False,False,False,True,True,True,True,1,34
+183,IPC,Offences Against the State,Imprisonment,26,True,True,True,False,False,False,False,2,52
+184,CrPC,Crimes Against Women,Imprisonment,5,False,True,True,False,False,False,False,1,10
+185,CrPC,Offences Against the State,Both,99,True,True,False,False,False,False,False,2,297
+186,NDPS,Crimes Against Women,Fine,61,False,False,False,True,False,True,True,1,61
+187,SCST Act,Crimes Against Children,Fine,92,True,False,True,False,False,False,False,1,92
+188,IPC,Offences Against the State,Both,93,True,True,False,False,True,False,False,2,279
+189,IPC,Crimes Against Children,Fine,9,True,False,False,True,True,True,False,2,9
+190,PMLA,Crimes Against SCs and STs,Imprisonment,116,True,True,True,True,False,False,False,2,232
+191,CrPC,Crimes Against SCs and STs,Both,102,True,True,True,True,True,True,False,3,306
+192,SCST Act,Cyber Crime,Both,50,False,True,False,False,True,False,False,1,150
+193,NDPS,Crimes Against Foreigners,Fine,6,False,True,False,True,False,True,False,2,6
+194,CrPC,Offences Against the State,Both,83,False,False,False,True,False,False,False,0,249
+195,NDPS,Crimes Against Children,Fine,60,True,True,True,True,True,False,False,2,60
+196,PMLA,Crimes Against Women,Fine,44,False,True,True,True,False,False,False,1,44
+197,PMLA,Crimes Against SCs and STs,Fine,11,True,False,True,False,True,False,False,1,11
+198,IPC,Crimes Against Foreigners,Fine,66,True,True,True,True,True,False,False,2,66
+199,SCST Act,Crimes Against SCs and STs,Fine,47,False,True,True,False,False,True,False,2,47
+200,NDPS,Crimes Against Women,Both,108,False,False,True,False,True,True,True,1,324
+201,CrPC,Crimes Against Foreigners,Imprisonment,108,True,False,True,False,True,False,False,1,216
+202,PMLA,Crimes Against Foreigners,Imprisonment,73,True,False,False,True,True,False,False,1,146
+203,IPC,Crimes Against Children,Both,85,False,True,False,False,False,False,False,1,255
+204,IPC,Crimes Against Children,Both,88,False,False,True,True,False,True,True,1,264
+205,NDPS,Offences Against the State,Imprisonment,98,False,False,True,True,False,True,True,1,196
+206,PMLA,Offences Against the State,Imprisonment,86,False,True,True,True,False,False,False,1,172
+207,SCST Act,Economic Offence,Imprisonment,3,True,True,False,False,True,True,False,3,6
+208,PMLA,Economic Offence,Imprisonment,76,False,True,True,True,False,False,False,1,152
+209,NDPS,Cyber Crime,Imprisonment,92,False,True,False,True,False,False,False,1,184
+210,NDPS,Crimes Against SCs and STs,Fine,30,False,True,False,True,False,False,False,1,30
+211,PMLA,Offences Against the State,Both,90,True,False,False,False,False,True,False,2,270
+212,NDPS,Crimes Against Children,Fine,112,True,False,False,False,True,False,False,1,112
+213,PMLA,Crimes Against Women,Imprisonment,21,True,False,False,False,True,False,False,1,42
+214,CrPC,Crimes Against Children,Imprisonment,28,True,True,True,True,True,False,False,2,56
+215,PMLA,Crimes Against SCs and STs,Imprisonment,90,False,True,True,False,False,True,False,2,180
+216,PMLA,Economic Offence,Fine,62,True,True,False,True,False,True,False,3,62
+217,NDPS,Crimes Against Children,Fine,33,False,False,True,True,True,True,True,1,33
+218,NDPS,Cyber Crime,Imprisonment,85,False,False,False,False,False,False,False,0,170
+219,IPC,Crimes Against SCs and STs,Fine,35,False,True,False,True,False,True,False,2,35
+220,IPC,Economic Offence,Fine,52,False,False,True,False,True,False,False,0,52
+221,CrPC,Crimes Against Women,Imprisonment,34,True,True,True,True,True,True,False,3,68
+222,IPC,Economic Offence,Fine,41,True,False,True,False,False,False,False,1,41
+223,PMLA,Crimes Against Foreigners,Both,51,True,False,True,True,False,True,False,2,153
+224,NDPS,Cyber Crime,Both,47,False,False,True,True,False,False,False,0,141
+225,IPC,Crimes Against SCs and STs,Both,82,False,True,False,True,True,True,False,2,246
+226,IPC,Crimes Against Women,Both,58,False,False,True,True,True,True,True,1,174
+227,CrPC,Cyber Crime,Imprisonment,75,False,False,True,True,True,True,True,1,150
+228,CrPC,Economic Offence,Imprisonment,57,False,True,True,False,True,False,False,1,114
+229,PMLA,Cyber Crime,Imprisonment,23,True,False,False,True,False,True,False,2,46
+230,NDPS,Crimes Against SCs and STs,Both,48,False,True,True,False,True,True,False,2,144
+231,CrPC,Offences Against the State,Both,22,True,True,False,False,True,True,False,3,66
+232,IPC,Cyber Crime,Fine,17,False,True,True,False,False,True,False,2,17
+233,NDPS,Crimes Against Foreigners,Fine,69,False,True,True,True,False,False,False,1,69
+234,NDPS,Cyber Crime,Both,108,True,True,False,True,False,True,False,3,324
+235,IPC,Economic Offence,Both,11,True,False,True,True,True,False,False,1,33
+236,CrPC,Economic Offence,Both,94,False,True,True,False,False,False,False,1,282
+237,IPC,Crimes Against Women,Both,15,False,True,False,True,False,False,False,1,45
+238,NDPS,Economic Offence,Fine,91,False,True,True,True,True,False,False,1,91
+239,SCST Act,Crimes Against Children,Both,35,False,True,False,False,True,True,False,2,105
+240,SCST Act,Crimes Against SCs and STs,Fine,33,True,False,False,False,False,False,False,1,33
+241,PMLA,Crimes Against SCs and STs,Both,84,False,True,False,False,True,False,False,1,252
+242,IPC,Offences Against the State,Both,16,True,False,False,False,False,False,False,1,48
+243,IPC,Offences Against the State,Both,34,False,True,False,False,False,False,False,1,102
+244,PMLA,Crimes Against SCs and STs,Fine,66,True,False,True,False,True,True,False,2,66
+245,PMLA,Crimes Against Foreigners,Fine,99,True,True,True,True,False,True,False,3,99
+246,PMLA,Offences Against the State,Imprisonment,40,False,True,True,False,True,False,False,1,80
+247,NDPS,Crimes Against Women,Both,28,True,False,False,True,True,False,False,1,84
+248,IPC,Economic Offence,Imprisonment,47,False,True,False,True,True,False,False,1,94
+249,NDPS,Crimes Against SCs and STs,Imprisonment,39,True,False,False,True,False,True,False,2,78
+250,PMLA,Offences Against the State,Fine,70,False,True,False,False,True,True,False,2,70
+251,IPC,Crimes Against SCs and STs,Fine,73,True,False,True,True,True,True,False,2,73
+252,NDPS,Crimes Against Children,Imprisonment,20,False,True,True,False,False,True,False,2,40
+253,NDPS,Cyber Crime,Both,1,False,True,False,False,False,True,False,2,3
+254,PMLA,Economic Offence,Fine,72,True,False,False,True,False,False,False,1,72
+255,IPC,Crimes Against SCs and STs,Both,119,True,True,True,False,False,True,False,3,357
+256,PMLA,Cyber Crime,Both,87,True,True,False,True,True,True,False,3,261
+257,IPC,Offences Against the State,Imprisonment,63,True,True,False,True,True,False,False,2,126
+258,SCST Act,Cyber Crime,Imprisonment,67,False,True,False,False,True,True,False,2,134
+259,CrPC,Economic Offence,Imprisonment,4,True,True,True,True,False,True,False,3,8
+260,CrPC,Crimes Against SCs and STs,Imprisonment,58,False,True,True,True,False,True,False,2,116
+261,CrPC,Crimes Against Children,Fine,25,True,False,False,True,True,False,False,1,25
+262,PMLA,Crimes Against Foreigners,Fine,47,False,False,True,False,False,True,True,1,47
+263,SCST Act,Offences Against the State,Imprisonment,38,False,False,False,True,False,False,False,0,76
+264,IPC,Crimes Against SCs and STs,Fine,15,False,True,False,False,True,False,False,1,15
+265,NDPS,Economic Offence,Imprisonment,63,False,False,True,False,True,True,True,1,126
+266,IPC,Offences Against the State,Both,21,True,True,False,True,False,True,False,3,63
+267,NDPS,Crimes Against Women,Both,99,True,True,False,True,False,True,False,3,297
+268,IPC,Cyber Crime,Both,57,False,True,True,False,False,True,False,2,171
+269,SCST Act,Crimes Against Foreigners,Imprisonment,117,True,True,False,False,True,False,False,2,234
+270,NDPS,Economic Offence,Both,53,True,False,False,True,True,True,False,2,159
+271,PMLA,Crimes Against Women,Fine,46,False,True,False,True,True,False,False,1,46
+272,IPC,Crimes Against SCs and STs,Both,116,True,False,True,False,True,False,False,1,348
+273,IPC,Crimes Against Children,Both,14,True,True,False,False,True,False,False,2,42
+274,NDPS,Offences Against the State,Both,100,True,False,True,False,False,False,False,1,300
+275,PMLA,Cyber Crime,Fine,76,False,False,False,False,False,False,False,0,76
+276,PMLA,Offences Against the State,Imprisonment,17,True,False,False,False,False,True,False,2,34
+277,SCST Act,Crimes Against Foreigners,Fine,39,False,False,False,True,True,False,False,0,39
+278,PMLA,Crimes Against SCs and STs,Imprisonment,9,True,False,False,False,True,False,False,1,18
+279,PMLA,Offences Against the State,Imprisonment,99,True,False,True,False,True,True,False,2,198
+280,PMLA,Cyber Crime,Both,77,True,True,True,True,False,True,False,3,231
+281,CrPC,Crimes Against SCs and STs,Imprisonment,79,False,False,False,True,True,False,False,0,158
+282,SCST Act,Offences Against the State,Fine,82,False,True,False,False,True,False,False,1,82
+283,IPC,Crimes Against Children,Fine,115,True,False,False,False,False,True,False,2,115
+284,NDPS,Economic Offence,Imprisonment,97,False,True,False,True,True,False,False,1,194
+285,IPC,Crimes Against SCs and STs,Both,6,True,False,False,False,False,True,False,2,18
+286,SCST Act,Economic Offence,Both,91,False,False,False,False,True,True,True,1,273
+287,NDPS,Crimes Against SCs and STs,Fine,23,False,True,False,True,True,False,False,1,23
+288,SCST Act,Crimes Against Children,Both,59,True,False,False,False,False,True,False,2,177
+289,PMLA,Economic Offence,Imprisonment,91,True,False,True,True,False,False,False,1,182
+290,NDPS,Crimes Against Women,Imprisonment,98,True,False,True,True,False,False,False,1,196
+291,PMLA,Cyber Crime,Fine,46,True,True,True,True,False,False,False,2,46
+292,IPC,Crimes Against Women,Imprisonment,38,False,False,False,True,False,True,True,1,76
+293,IPC,Offences Against the State,Fine,14,False,True,False,False,False,False,False,1,14
+294,NDPS,Crimes Against Children,Imprisonment,100,False,False,False,True,True,True,True,1,200
+295,NDPS,Crimes Against Women,Fine,117,True,False,True,False,True,False,False,1,117
+296,SCST Act,Crimes Against SCs and STs,Both,72,True,True,False,False,False,False,False,2,216
+297,SCST Act,Offences Against the State,Imprisonment,62,False,False,True,False,True,True,True,1,124
+298,PMLA,Offences Against the State,Imprisonment,35,True,False,False,False,False,False,False,1,70
+299,NDPS,Crimes Against Women,Fine,19,False,True,True,False,True,False,False,1,19
+300,IPC,Crimes Against Women,Fine,30,False,False,True,True,False,True,True,1,30
+301,SCST Act,Crimes Against Children,Imprisonment,78,False,True,True,True,True,True,False,2,156
+302,SCST Act,Cyber Crime,Fine,84,False,True,False,True,True,True,False,2,84
+303,IPC,Crimes Against Women,Imprisonment,113,False,True,True,True,True,False,False,1,226
+304,SCST Act,Crimes Against Foreigners,Both,25,True,False,False,False,True,True,False,2,75
+305,PMLA,Crimes Against Women,Fine,40,True,True,False,True,True,True,False,3,40
+306,NDPS,Economic Offence,Imprisonment,88,True,True,False,False,False,False,False,2,176
+307,IPC,Crimes Against SCs and STs,Both,14,False,False,False,False,False,True,True,1,42
+308,NDPS,Crimes Against Foreigners,Both,26,False,True,False,True,False,False,False,1,78
+309,SCST Act,Crimes Against Foreigners,Imprisonment,102,False,False,True,True,True,False,False,0,204
+310,SCST Act,Economic Offence,Fine,87,False,False,False,True,False,True,True,1,87
+311,IPC,Economic Offence,Imprisonment,22,True,False,False,True,True,False,False,1,44
+312,PMLA,Offences Against the State,Both,48,True,False,False,False,True,True,False,2,144
+313,CrPC,Cyber Crime,Imprisonment,83,False,True,False,False,True,True,False,2,166
+314,IPC,Crimes Against SCs and STs,Fine,110,False,True,False,True,False,True,False,2,110
+315,CrPC,Crimes Against Children,Both,51,False,True,True,False,True,True,False,2,153
+316,CrPC,Crimes Against Foreigners,Imprisonment,3,True,True,True,False,False,False,False,2,6
+317,PMLA,Crimes Against Children,Fine,42,True,True,False,False,False,False,False,2,42
+318,CrPC,Crimes Against Women,Both,19,True,False,True,True,True,True,False,2,57
+319,CrPC,Crimes Against Women,Fine,73,False,True,True,False,True,True,False,2,73
+320,PMLA,Crimes Against Children,Both,28,False,True,False,True,False,False,False,1,84
+321,CrPC,Crimes Against Women,Imprisonment,84,True,True,True,True,False,True,False,3,168
+322,CrPC,Cyber Crime,Fine,45,False,False,False,False,False,False,False,0,45
+323,CrPC,Economic Offence,Both,71,True,False,True,False,False,True,False,2,213
+324,IPC,Crimes Against Women,Fine,78,False,True,True,True,False,False,False,1,78
+325,IPC,Offences Against the State,Fine,63,True,False,True,False,False,False,False,1,63
+326,IPC,Crimes Against Women,Imprisonment,73,False,True,False,False,True,False,False,1,146
+327,PMLA,Crimes Against SCs and STs,Fine,119,True,True,True,True,False,True,False,3,119
+328,SCST Act,Cyber Crime,Both,19,True,False,True,True,False,True,False,2,57
+329,CrPC,Crimes Against SCs and STs,Both,47,True,False,False,True,False,True,False,2,141
+330,CrPC,Crimes Against SCs and STs,Both,116,True,True,False,True,False,True,False,3,348
+331,PMLA,Offences Against the State,Both,14,True,True,True,False,True,True,False,3,42
+332,CrPC,Cyber Crime,Imprisonment,38,True,False,False,False,True,False,False,1,76
+333,IPC,Cyber Crime,Fine,53,False,True,True,True,False,False,False,1,53
+334,SCST Act,Cyber Crime,Imprisonment,61,False,False,True,True,False,False,False,0,122
+335,NDPS,Cyber Crime,Fine,36,False,True,False,True,False,False,False,1,36
+336,CrPC,Cyber Crime,Fine,40,True,False,False,False,True,False,False,1,40
+337,IPC,Offences Against the State,Fine,81,True,True,False,True,True,False,False,2,81
+338,NDPS,Crimes Against Women,Imprisonment,30,False,True,True,False,True,False,False,1,60
+339,SCST Act,Crimes Against SCs and STs,Fine,9,True,False,False,True,True,True,False,2,9
+340,NDPS,Cyber Crime,Imprisonment,64,True,True,True,True,True,False,False,2,128
+341,IPC,Crimes Against Foreigners,Both,33,True,True,False,True,True,True,False,3,99
+342,NDPS,Crimes Against Women,Both,52,True,False,True,False,False,False,False,1,156
+343,PMLA,Crimes Against Women,Fine,89,True,True,False,False,True,False,False,2,89
+344,NDPS,Crimes Against SCs and STs,Imprisonment,14,False,True,True,False,True,True,False,2,28
+345,CrPC,Offences Against the State,Both,75,False,True,False,True,False,False,False,1,225
+346,CrPC,Crimes Against Children,Imprisonment,53,False,False,True,False,True,True,True,1,106
+347,PMLA,Crimes Against Children,Imprisonment,99,False,False,False,False,False,False,False,0,198
+348,IPC,Crimes Against Women,Fine,105,False,False,False,True,True,True,True,1,105
+349,CrPC,Economic Offence,Both,59,True,True,True,True,False,False,False,2,177
+350,SCST Act,Economic Offence,Fine,78,True,True,False,False,False,True,False,3,78
+351,CrPC,Crimes Against SCs and STs,Fine,94,True,True,True,False,False,True,False,3,94
+352,CrPC,Crimes Against Children,Both,41,True,True,True,False,False,False,False,2,123
+353,IPC,Crimes Against Women,Both,68,False,False,False,False,False,False,False,0,204
+354,NDPS,Offences Against the State,Imprisonment,68,False,True,True,True,True,True,False,2,136
+355,CrPC,Crimes Against Children,Both,92,False,True,False,True,True,False,False,1,276
+356,PMLA,Crimes Against Women,Imprisonment,8,True,True,False,True,False,True,False,3,16
+357,NDPS,Crimes Against Women,Imprisonment,2,False,False,True,False,False,False,False,0,4
+358,SCST Act,Cyber Crime,Imprisonment,105,True,True,False,False,False,True,False,3,210
+359,IPC,Offences Against the State,Both,110,False,True,True,True,True,False,False,1,330
+360,SCST Act,Cyber Crime,Fine,86,False,True,True,True,False,True,False,2,86
+361,NDPS,Crimes Against SCs and STs,Imprisonment,41,True,True,False,False,False,False,False,2,82
+362,NDPS,Cyber Crime,Fine,55,True,True,False,False,False,True,False,3,55
+363,NDPS,Crimes Against Foreigners,Fine,16,False,False,True,True,False,True,True,1,16
+364,SCST Act,Cyber Crime,Both,93,False,True,True,True,True,False,False,1,279
+365,NDPS,Crimes Against Foreigners,Fine,62,True,True,False,True,False,False,False,2,62
+366,SCST Act,Crimes Against Children,Fine,113,False,True,False,False,False,True,False,2,113
+367,NDPS,Economic Offence,Both,48,False,True,False,False,True,True,False,2,144
+368,PMLA,Crimes Against Women,Imprisonment,30,True,True,False,False,False,True,False,3,60
+369,NDPS,Crimes Against Foreigners,Fine,12,False,True,True,False,False,True,False,2,12
+370,SCST Act,Offences Against the State,Both,35,True,True,False,False,True,False,False,2,105
+371,CrPC,Cyber Crime,Fine,11,False,True,True,False,True,True,False,2,11
+372,NDPS,Crimes Against Foreigners,Fine,64,True,True,True,True,True,True,False,3,64
+373,CrPC,Offences Against the State,Imprisonment,110,False,True,False,True,False,True,False,2,220
+374,PMLA,Economic Offence,Fine,50,True,False,True,False,False,False,False,1,50
+375,IPC,Economic Offence,Both,85,False,False,False,True,True,True,True,1,255
+376,PMLA,Cyber Crime,Fine,21,True,False,True,False,True,False,False,1,21
+377,NDPS,Crimes Against SCs and STs,Imprisonment,69,False,False,False,True,True,False,False,0,138
+378,CrPC,Cyber Crime,Imprisonment,48,False,True,True,False,False,False,False,1,96
+379,CrPC,Crimes Against Children,Both,20,False,False,True,True,False,False,False,0,60
+380,SCST Act,Crimes Against Foreigners,Imprisonment,101,False,False,False,True,True,False,False,0,202
+381,CrPC,Crimes Against Women,Fine,67,False,True,False,False,False,False,False,1,67
+382,SCST Act,Crimes Against SCs and STs,Imprisonment,44,False,False,True,False,True,False,False,0,88
+383,IPC,Cyber Crime,Both,33,False,False,True,True,False,True,True,1,99
+384,NDPS,Offences Against the State,Imprisonment,117,False,True,False,True,False,True,False,2,234
+385,SCST Act,Crimes Against SCs and STs,Imprisonment,73,False,True,True,False,False,False,False,1,146
+386,IPC,Crimes Against Foreigners,Imprisonment,61,True,True,False,True,False,True,False,3,122
+387,CrPC,Crimes Against SCs and STs,Both,9,True,False,True,False,True,True,False,2,27
+388,CrPC,Crimes Against Foreigners,Imprisonment,68,False,False,False,False,False,False,False,0,136
+389,IPC,Cyber Crime,Imprisonment,35,True,True,True,True,False,True,False,3,70
+390,CrPC,Crimes Against Foreigners,Fine,81,False,True,False,False,True,False,False,1,81
+391,IPC,Crimes Against SCs and STs,Both,98,False,False,False,True,False,True,True,1,294
+392,SCST Act,Offences Against the State,Imprisonment,88,True,True,True,True,True,False,False,2,176
+393,SCST Act,Economic Offence,Both,96,False,False,False,False,True,False,False,0,288
+394,IPC,Crimes Against SCs and STs,Imprisonment,65,False,True,True,True,False,True,False,2,130
+395,SCST Act,Crimes Against Foreigners,Imprisonment,8,True,True,False,False,False,True,False,3,16
+396,SCST Act,Economic Offence,Imprisonment,45,True,False,False,False,True,False,False,1,90
+397,SCST Act,Crimes Against Foreigners,Fine,87,False,True,False,False,True,False,False,1,87
+398,PMLA,Offences Against the State,Fine,47,True,True,True,True,True,False,False,2,47
+399,NDPS,Crimes Against Foreigners,Fine,40,True,True,False,False,False,True,False,3,40
+400,CrPC,Cyber Crime,Both,76,False,False,True,True,True,True,True,1,228
+401,PMLA,Crimes Against Women,Both,54,True,True,False,False,True,True,False,3,162
+402,SCST Act,Crimes Against SCs and STs,Fine,76,True,True,True,False,True,True,False,3,76
+403,IPC,Crimes Against Women,Both,46,False,True,True,False,False,False,False,1,138
+404,SCST Act,Crimes Against Foreigners,Imprisonment,47,True,True,True,True,True,False,False,2,94
+405,NDPS,Offences Against the State,Imprisonment,15,True,True,False,True,False,False,False,2,30
+406,SCST Act,Crimes Against SCs and STs,Imprisonment,105,False,True,True,False,False,False,False,1,210
+407,IPC,Crimes Against Foreigners,Fine,19,False,False,False,False,True,True,True,1,19
+408,NDPS,Economic Offence,Both,26,False,False,True,True,False,False,False,0,78
+409,SCST Act,Crimes Against Children,Fine,52,True,True,True,True,True,False,False,2,52
+410,NDPS,Crimes Against Foreigners,Both,93,False,False,True,True,False,True,True,1,279
+411,CrPC,Crimes Against Women,Imprisonment,22,False,False,True,False,False,True,True,1,44
+412,CrPC,Crimes Against SCs and STs,Fine,104,True,True,False,True,True,False,False,2,104
+413,SCST Act,Crimes Against Women,Both,21,False,False,True,False,True,True,True,1,63
+414,NDPS,Crimes Against SCs and STs,Both,51,False,False,True,True,True,False,False,0,153
+415,IPC,Crimes Against Foreigners,Imprisonment,38,False,False,False,False,False,True,True,1,76
+416,SCST Act,Cyber Crime,Fine,20,False,False,True,False,False,True,True,1,20
+417,CrPC,Economic Offence,Fine,29,True,False,True,False,True,False,False,1,29
+418,CrPC,Crimes Against Foreigners,Fine,51,False,False,True,True,True,True,True,1,51
+419,SCST Act,Crimes Against Women,Imprisonment,4,False,False,True,True,False,False,False,0,8
+420,NDPS,Crimes Against Children,Fine,55,True,False,False,True,False,True,False,2,55
+421,CrPC,Crimes Against Children,Imprisonment,71,False,True,False,False,False,True,False,2,142
+422,NDPS,Offences Against the State,Imprisonment,92,True,True,True,False,True,True,False,3,184
+423,CrPC,Crimes Against SCs and STs,Imprisonment,28,True,False,False,True,False,True,False,2,56
+424,CrPC,Crimes Against Women,Both,4,True,False,False,False,True,True,False,2,12
+425,PMLA,Offences Against the State,Fine,22,False,True,True,False,False,False,False,1,22
+426,CrPC,Crimes Against Women,Fine,76,True,False,False,False,False,True,False,2,76
+427,IPC,Crimes Against SCs and STs,Imprisonment,45,True,False,True,True,True,False,False,1,90
+428,SCST Act,Crimes Against Foreigners,Imprisonment,67,True,True,False,False,True,True,False,3,134
+429,SCST Act,Crimes Against Foreigners,Fine,86,False,True,False,True,True,False,False,1,86
+430,NDPS,Crimes Against Children,Imprisonment,108,False,True,False,True,False,True,False,2,216
+431,CrPC,Crimes Against Foreigners,Fine,66,False,False,True,True,False,False,False,0,66
+432,IPC,Crimes Against Foreigners,Both,88,False,False,False,True,False,False,False,0,264
+433,NDPS,Cyber Crime,Imprisonment,34,False,True,True,True,True,True,False,2,68
+434,PMLA,Crimes Against Children,Fine,91,False,True,True,False,False,True,False,2,91
+435,NDPS,Offences Against the State,Imprisonment,55,False,False,False,True,True,True,True,1,110
+436,NDPS,Economic Offence,Fine,105,True,True,True,True,True,False,False,2,105
+437,CrPC,Cyber Crime,Fine,1,True,False,False,True,True,False,False,1,1
+438,PMLA,Offences Against the State,Imprisonment,72,True,False,True,False,False,True,False,2,144
+439,NDPS,Crimes Against SCs and STs,Both,87,True,True,True,False,False,True,False,3,261
+440,IPC,Cyber Crime,Fine,38,False,True,False,False,True,False,False,1,38
+441,IPC,Offences Against the State,Fine,6,True,False,False,False,False,False,False,1,6
+442,SCST Act,Crimes Against SCs and STs,Fine,86,True,True,False,True,True,True,False,3,86
+443,PMLA,Crimes Against Children,Both,25,True,True,False,True,True,False,False,2,75
+444,PMLA,Economic Offence,Both,82,True,True,True,False,False,True,False,3,246
+445,SCST Act,Crimes Against SCs and STs,Imprisonment,17,False,True,True,False,True,True,False,2,34
+446,NDPS,Crimes Against Foreigners,Both,61,False,False,True,False,True,True,True,1,183
+447,PMLA,Crimes Against Women,Imprisonment,12,False,False,False,False,False,False,False,0,24
+448,IPC,Crimes Against SCs and STs,Imprisonment,6,True,False,True,True,True,False,False,1,12
+449,IPC,Crimes Against SCs and STs,Both,90,False,False,False,False,True,False,False,0,270
+450,CrPC,Economic Offence,Imprisonment,27,True,True,True,False,True,False,False,2,54
+451,PMLA,Crimes Against Women,Both,8,False,True,False,False,True,True,False,2,24
+452,NDPS,Crimes Against Foreigners,Imprisonment,83,False,False,True,False,True,False,False,0,166
+453,SCST Act,Offences Against the State,Both,106,False,False,True,False,True,True,True,1,318
+454,SCST Act,Offences Against the State,Both,65,False,True,False,False,True,True,False,2,195
+455,NDPS,Crimes Against SCs and STs,Imprisonment,57,False,False,True,False,False,True,True,1,114
+456,CrPC,Crimes Against Women,Fine,93,True,False,False,True,False,False,False,1,93
+457,SCST Act,Crimes Against Women,Imprisonment,109,False,True,True,True,True,True,False,2,218
+458,PMLA,Crimes Against Foreigners,Both,113,True,False,True,True,True,True,False,2,339
+459,CrPC,Economic Offence,Fine,99,True,True,False,True,False,False,False,2,99
+460,PMLA,Crimes Against Children,Imprisonment,40,True,True,False,True,False,True,False,3,80
+461,IPC,Offences Against the State,Imprisonment,14,True,False,True,True,False,False,False,1,28
+462,CrPC,Economic Offence,Imprisonment,35,True,True,True,False,False,False,False,2,70
+463,SCST Act,Cyber Crime,Fine,48,False,False,True,False,False,False,False,0,48
+464,CrPC,Offences Against the State,Both,109,False,True,True,True,True,True,False,2,327
+465,CrPC,Economic Offence,Imprisonment,84,False,False,True,False,False,False,False,0,168
+466,CrPC,Offences Against the State,Imprisonment,56,False,False,True,True,False,False,False,0,112
+467,CrPC,Crimes Against Children,Imprisonment,49,True,False,False,False,False,False,False,1,98
+468,PMLA,Cyber Crime,Imprisonment,13,False,True,False,False,True,False,False,1,26
+469,IPC,Crimes Against Children,Imprisonment,61,False,True,False,False,True,True,False,2,122
+470,NDPS,Crimes Against Foreigners,Both,102,True,False,True,False,True,False,False,1,306
+471,CrPC,Cyber Crime,Both,49,True,True,True,False,True,True,False,3,147
+472,SCST Act,Crimes Against SCs and STs,Imprisonment,46,False,False,True,False,True,False,False,0,92
+473,CrPC,Economic Offence,Fine,113,False,False,False,True,True,True,True,1,113
+474,SCST Act,Cyber Crime,Both,62,True,True,False,True,False,False,False,2,186
+475,PMLA,Crimes Against Foreigners,Fine,8,False,False,True,False,True,True,True,1,8
+476,SCST Act,Crimes Against Foreigners,Both,43,False,True,True,True,True,False,False,1,129
+477,NDPS,Crimes Against Children,Imprisonment,20,False,False,False,False,False,True,True,1,40
+478,IPC,Offences Against the State,Both,97,False,True,False,True,True,True,False,2,291
+479,SCST Act,Cyber Crime,Imprisonment,90,True,False,False,False,False,True,False,2,180
+480,SCST Act,Economic Offence,Both,39,True,False,True,True,False,False,False,1,117
+481,IPC,Cyber Crime,Imprisonment,85,True,True,True,False,True,True,False,3,170
+482,NDPS,Crimes Against Women,Imprisonment,117,False,False,True,True,False,True,True,1,234
+483,CrPC,Offences Against the State,Imprisonment,49,False,False,False,False,False,True,True,1,98
+484,SCST Act,Economic Offence,Imprisonment,64,False,True,False,True,False,True,False,2,128
+485,IPC,Economic Offence,Fine,62,False,False,True,False,False,False,False,0,62
+486,PMLA,Crimes Against SCs and STs,Imprisonment,106,False,True,True,False,True,True,False,2,212
+487,IPC,Crimes Against Children,Fine,107,True,False,False,False,False,True,False,2,107
+488,PMLA,Crimes Against SCs and STs,Fine,54,False,True,True,True,True,True,False,2,54
+489,NDPS,Economic Offence,Imprisonment,105,False,False,False,True,False,False,False,0,210
+490,CrPC,Offences Against the State,Fine,9,True,False,False,True,False,True,False,2,9
+491,IPC,Cyber Crime,Both,88,False,False,True,False,False,True,True,1,264
+492,SCST Act,Cyber Crime,Imprisonment,37,True,True,False,True,True,True,False,3,74
+493,NDPS,Offences Against the State,Fine,49,True,True,True,False,True,True,False,3,49
+494,IPC,Economic Offence,Imprisonment,41,True,True,False,True,True,False,False,2,82
+495,SCST Act,Crimes Against Foreigners,Imprisonment,17,True,True,False,True,False,True,False,3,34
+496,IPC,Cyber Crime,Imprisonment,88,True,False,True,True,False,True,False,2,176
+497,PMLA,Crimes Against Foreigners,Fine,21,False,False,False,True,False,False,False,0,21
+498,IPC,Cyber Crime,Both,51,True,True,True,False,False,False,False,2,153
+499,IPC,Cyber Crime,Both,59,True,True,True,True,True,False,False,2,177
+500,IPC,Crimes Against Children,Fine,39,False,True,False,True,False,True,False,2,39
+501,NDPS,Crimes Against Children,Imprisonment,55,False,False,True,False,True,False,False,0,110
+502,IPC,Crimes Against Women,Fine,41,True,True,True,False,False,True,False,3,41
+503,SCST Act,Crimes Against SCs and STs,Fine,39,False,True,True,True,True,False,False,1,39
+504,PMLA,Offences Against the State,Fine,13,False,False,True,True,True,True,True,1,13
+505,PMLA,Offences Against the State,Imprisonment,64,True,False,True,False,False,False,False,1,128
+506,IPC,Offences Against the State,Fine,11,True,True,True,False,False,True,False,3,11
+507,NDPS,Crimes Against Women,Imprisonment,110,False,False,False,False,True,False,False,0,220
+508,NDPS,Crimes Against Children,Fine,19,True,True,True,True,False,True,False,3,19
+509,SCST Act,Economic Offence,Both,11,True,False,False,True,False,True,False,2,33
+510,IPC,Crimes Against Foreigners,Fine,77,False,True,False,True,True,True,False,2,77
+511,PMLA,Crimes Against Foreigners,Fine,46,True,True,True,False,True,True,False,3,46
+512,NDPS,Economic Offence,Both,45,True,True,False,False,True,True,False,3,135
+513,IPC,Crimes Against Women,Imprisonment,1,True,True,False,False,True,True,False,3,2
+514,NDPS,Economic Offence,Imprisonment,40,True,False,True,True,False,True,False,2,80
+515,NDPS,Offences Against the State,Fine,108,True,False,True,False,True,True,False,2,108
+516,PMLA,Crimes Against SCs and STs,Both,19,False,False,True,True,True,False,False,0,57
+517,CrPC,Cyber Crime,Imprisonment,76,False,False,False,False,True,True,True,1,152
+518,SCST Act,Crimes Against Foreigners,Fine,72,True,True,False,True,False,True,False,3,72
+519,SCST Act,Crimes Against Children,Both,72,False,True,True,True,True,False,False,1,216
+520,PMLA,Crimes Against Children,Imprisonment,61,True,False,True,False,False,True,False,2,122
+521,NDPS,Crimes Against Women,Imprisonment,117,True,False,False,True,True,False,False,1,234
+522,IPC,Crimes Against Children,Both,109,True,False,False,False,True,True,False,2,327
+523,NDPS,Offences Against the State,Both,12,True,False,False,True,False,False,False,1,36
+524,PMLA,Crimes Against Foreigners,Both,61,True,False,False,False,True,False,False,1,183
+525,SCST Act,Economic Offence,Both,112,False,True,True,False,True,True,False,2,336
+526,NDPS,Offences Against the State,Fine,33,False,True,False,True,False,False,False,1,33
+527,SCST Act,Crimes Against Women,Both,45,True,True,False,False,True,True,False,3,135
+528,IPC,Offences Against the State,Imprisonment,90,False,False,False,True,True,True,True,1,180
+529,SCST Act,Economic Offence,Imprisonment,103,True,False,False,False,True,True,False,2,206
+530,SCST Act,Crimes Against SCs and STs,Fine,92,False,False,True,False,True,True,True,1,92
+531,CrPC,Crimes Against Women,Imprisonment,69,True,False,True,False,False,False,False,1,138
+532,CrPC,Crimes Against SCs and STs,Imprisonment,8,False,True,False,False,True,True,False,2,16
+533,CrPC,Cyber Crime,Both,25,True,True,False,True,False,False,False,2,75
+534,SCST Act,Crimes Against SCs and STs,Imprisonment,91,True,False,True,False,True,False,False,1,182
+535,PMLA,Cyber Crime,Fine,46,False,True,True,False,False,True,False,2,46
+536,SCST Act,Cyber Crime,Both,87,False,True,False,True,True,True,False,2,261
+537,PMLA,Crimes Against SCs and STs,Both,30,True,False,False,True,False,True,False,2,90
+538,PMLA,Crimes Against Women,Fine,109,False,False,True,True,True,True,True,1,109
+539,CrPC,Economic Offence,Both,47,True,False,True,True,False,False,False,1,141
+540,NDPS,Offences Against the State,Both,87,False,False,True,True,False,True,True,1,261
+541,IPC,Offences Against the State,Fine,49,False,False,True,True,True,False,False,0,49
+542,CrPC,Economic Offence,Both,47,True,False,True,False,False,True,False,2,141
+543,CrPC,Crimes Against Foreigners,Fine,84,False,True,True,True,True,True,False,2,84
+544,NDPS,Crimes Against Foreigners,Fine,82,False,True,False,False,True,True,False,2,82
+545,IPC,Cyber Crime,Imprisonment,18,True,False,True,True,True,True,False,2,36
+546,SCST Act,Cyber Crime,Imprisonment,66,False,True,True,False,True,False,False,1,132
+547,SCST Act,Crimes Against Women,Both,68,True,False,True,False,True,False,False,1,204
+548,CrPC,Crimes Against Children,Both,94,True,False,True,False,False,True,False,2,282
+549,IPC,Crimes Against SCs and STs,Fine,33,True,False,False,True,True,False,False,1,33
+550,CrPC,Cyber Crime,Both,36,True,False,False,True,True,False,False,1,108
+551,PMLA,Offences Against the State,Fine,82,True,True,True,True,True,True,False,3,82
+552,CrPC,Crimes Against Women,Fine,101,False,False,False,True,True,True,True,1,101
+553,CrPC,Crimes Against SCs and STs,Both,19,True,True,False,False,True,False,False,2,57
+554,SCST Act,Crimes Against Women,Fine,111,True,False,False,True,True,False,False,1,111
+555,SCST Act,Crimes Against SCs and STs,Imprisonment,28,False,False,False,False,False,False,False,0,56
+556,SCST Act,Crimes Against SCs and STs,Both,40,False,False,False,False,False,False,False,0,120
+557,PMLA,Economic Offence,Imprisonment,84,False,True,False,True,True,True,False,2,168
+558,SCST Act,Cyber Crime,Both,113,True,False,True,True,False,True,False,2,339
+559,IPC,Crimes Against Women,Fine,97,True,False,True,True,True,False,False,1,97
+560,NDPS,Crimes Against Women,Both,76,True,False,True,False,True,True,False,2,228
+561,IPC,Economic Offence,Imprisonment,115,False,True,True,True,True,False,False,1,230
+562,IPC,Offences Against the State,Fine,15,True,True,True,False,True,False,False,2,15
+563,SCST Act,Offences Against the State,Both,41,False,True,False,True,True,True,False,2,123
+564,NDPS,Crimes Against Foreigners,Both,39,True,False,True,False,False,False,False,1,117
+565,NDPS,Cyber Crime,Both,2,False,True,True,True,False,False,False,1,6
+566,NDPS,Cyber Crime,Imprisonment,63,True,False,False,True,False,True,False,2,126
+567,PMLA,Crimes Against Children,Imprisonment,29,True,True,False,False,False,True,False,3,58
+568,SCST Act,Economic Offence,Both,105,True,True,True,True,True,False,False,2,315
+569,NDPS,Offences Against the State,Fine,74,False,False,False,True,False,False,False,0,74
+570,PMLA,Crimes Against SCs and STs,Fine,66,False,True,False,True,True,True,False,2,66
+571,CrPC,Crimes Against Women,Imprisonment,51,True,False,False,True,False,False,False,1,102
+572,CrPC,Cyber Crime,Fine,75,True,False,False,True,False,False,False,1,75
+573,PMLA,Crimes Against Women,Imprisonment,77,True,True,True,True,False,True,False,3,154
+574,PMLA,Crimes Against Women,Both,10,False,False,False,True,False,True,True,1,30
+575,SCST Act,Crimes Against Children,Imprisonment,14,True,False,True,False,True,True,False,2,28
+576,SCST Act,Offences Against the State,Imprisonment,82,True,True,True,False,False,True,False,3,164
+577,CrPC,Cyber Crime,Both,51,True,True,False,True,False,True,False,3,153
+578,NDPS,Crimes Against Women,Fine,118,True,False,False,True,True,True,False,2,118
+579,CrPC,Cyber Crime,Imprisonment,73,False,True,False,True,True,False,False,1,146
+580,NDPS,Crimes Against SCs and STs,Imprisonment,39,False,False,True,False,False,False,False,0,78
+581,NDPS,Crimes Against Children,Both,28,True,False,False,False,True,True,False,2,84
+582,SCST Act,Crimes Against SCs and STs,Fine,3,True,True,False,True,True,True,False,3,3
+583,IPC,Cyber Crime,Imprisonment,84,False,True,False,False,True,False,False,1,168
+584,IPC,Crimes Against Foreigners,Both,70,False,True,False,True,False,False,False,1,210
+585,PMLA,Cyber Crime,Imprisonment,27,True,True,False,True,True,False,False,2,54
+586,SCST Act,Offences Against the State,Both,117,False,False,True,True,False,True,True,1,351
+587,NDPS,Crimes Against Women,Fine,2,False,False,False,True,False,True,True,1,2
+588,IPC,Crimes Against Women,Fine,93,True,True,False,False,False,False,False,2,93
+589,NDPS,Crimes Against SCs and STs,Fine,38,False,True,False,False,False,True,False,2,38
+590,IPC,Crimes Against Children,Fine,3,False,False,True,True,True,True,True,1,3
+591,IPC,Crimes Against Foreigners,Imprisonment,16,True,False,False,False,False,True,False,2,32
+592,IPC,Economic Offence,Imprisonment,94,True,False,True,False,True,False,False,1,188
+593,SCST Act,Crimes Against Women,Fine,40,False,False,True,True,False,False,False,0,40
+594,CrPC,Offences Against the State,Fine,2,True,True,False,False,True,True,False,3,2
+595,NDPS,Crimes Against SCs and STs,Fine,81,False,False,False,True,False,True,True,1,81
+596,SCST Act,Crimes Against SCs and STs,Imprisonment,41,True,False,False,True,True,True,False,2,82
+597,SCST Act,Economic Offence,Fine,12,False,True,True,True,False,True,False,2,12
+598,SCST Act,Offences Against the State,Fine,35,True,False,True,True,False,True,False,2,35
+599,SCST Act,Crimes Against Children,Fine,107,False,False,True,False,True,False,False,0,107
+600,SCST Act,Offences Against the State,Both,65,False,True,True,True,False,True,False,2,195
+601,PMLA,Crimes Against Children,Fine,55,False,True,True,False,False,True,False,2,55
+602,NDPS,Offences Against the State,Both,45,True,True,True,True,False,True,False,3,135
+603,SCST Act,Offences Against the State,Both,79,True,False,False,True,True,False,False,1,237
+604,NDPS,Cyber Crime,Fine,90,False,False,False,False,False,False,False,0,90
+605,PMLA,Crimes Against SCs and STs,Both,101,False,True,True,True,False,True,False,2,303
+606,PMLA,Offences Against the State,Fine,85,True,True,False,False,True,False,False,2,85
+607,NDPS,Economic Offence,Imprisonment,62,True,False,False,False,True,False,False,1,124
+608,IPC,Offences Against the State,Imprisonment,49,True,True,True,True,True,False,False,2,98
+609,CrPC,Crimes Against Women,Imprisonment,95,True,True,True,True,True,False,False,2,190
+610,IPC,Crimes Against SCs and STs,Imprisonment,25,True,True,False,True,True,False,False,2,50
+611,IPC,Crimes Against Women,Both,23,True,False,True,True,False,False,False,1,69
+612,IPC,Crimes Against SCs and STs,Fine,24,False,False,True,True,False,True,True,1,24
+613,SCST Act,Crimes Against Women,Fine,38,True,False,False,True,False,False,False,1,38
+614,PMLA,Offences Against the State,Fine,28,False,False,True,False,True,False,False,0,28
+615,IPC,Offences Against the State,Imprisonment,21,True,False,False,False,False,True,False,2,42
+616,PMLA,Cyber Crime,Imprisonment,54,True,False,False,True,True,True,False,2,108
+617,NDPS,Economic Offence,Fine,107,False,True,False,False,True,True,False,2,107
+618,CrPC,Crimes Against Women,Imprisonment,18,False,False,False,False,False,True,True,1,36
+619,NDPS,Crimes Against Children,Fine,36,True,False,False,True,True,False,False,1,36
+620,NDPS,Cyber Crime,Fine,99,False,True,True,True,True,False,False,1,99
+621,SCST Act,Crimes Against Women,Fine,45,False,False,True,False,False,False,False,0,45
+622,CrPC,Crimes Against Women,Fine,119,False,False,True,True,True,False,False,0,119
+623,NDPS,Cyber Crime,Fine,73,False,True,True,False,True,True,False,2,73
+624,NDPS,Offences Against the State,Fine,53,True,True,False,True,False,False,False,2,53
+625,CrPC,Crimes Against Women,Fine,102,False,True,False,False,True,False,False,1,102
+626,CrPC,Offences Against the State,Imprisonment,30,True,False,True,False,True,True,False,2,60
+627,NDPS,Cyber Crime,Fine,60,True,True,False,False,False,False,False,2,60
+628,CrPC,Offences Against the State,Fine,108,True,False,True,False,False,False,False,1,108
+629,NDPS,Crimes Against SCs and STs,Imprisonment,98,True,False,True,True,False,False,False,1,196
+630,NDPS,Crimes Against Children,Imprisonment,32,False,False,True,True,False,False,False,0,64
+631,SCST Act,Crimes Against Foreigners,Imprisonment,67,False,False,False,False,True,True,True,1,134
+632,IPC,Crimes Against Women,Fine,67,True,True,False,False,True,True,False,3,67
+633,NDPS,Economic Offence,Both,28,True,True,False,True,False,True,False,3,84
+634,PMLA,Crimes Against Children,Both,44,True,False,False,True,True,True,False,2,132
+635,IPC,Crimes Against Foreigners,Imprisonment,79,True,True,True,False,True,True,False,3,158
+636,IPC,Offences Against the State,Both,41,False,False,False,False,False,False,False,0,123
+637,IPC,Crimes Against Women,Imprisonment,63,True,False,False,False,False,False,False,1,126
+638,SCST Act,Offences Against the State,Fine,23,False,False,False,False,True,True,True,1,23
+639,NDPS,Crimes Against SCs and STs,Both,104,True,True,True,False,False,True,False,3,312
+640,SCST Act,Cyber Crime,Fine,75,True,False,True,True,False,True,False,2,75
+641,NDPS,Crimes Against Women,Both,48,True,False,False,False,False,False,False,1,144
+642,SCST Act,Crimes Against Foreigners,Fine,32,True,True,False,True,True,True,False,3,32
+643,SCST Act,Crimes Against Foreigners,Both,57,False,True,False,True,False,False,False,1,171
+644,PMLA,Crimes Against SCs and STs,Fine,118,False,True,False,True,True,False,False,1,118
+645,SCST Act,Crimes Against SCs and STs,Fine,100,False,True,True,False,True,False,False,1,100
+646,CrPC,Crimes Against Women,Both,33,True,False,False,True,True,False,False,1,99
+647,PMLA,Offences Against the State,Fine,24,True,True,False,True,False,True,False,3,24
+648,SCST Act,Economic Offence,Fine,39,False,False,False,True,False,False,False,0,39
+649,IPC,Crimes Against Foreigners,Fine,34,False,True,True,True,False,False,False,1,34
+650,CrPC,Crimes Against Foreigners,Both,56,True,True,True,False,False,True,False,3,168
+651,CrPC,Crimes Against SCs and STs,Both,28,True,True,False,False,False,False,False,2,84
+652,CrPC,Crimes Against Children,Fine,37,False,True,False,True,True,False,False,1,37
+653,PMLA,Crimes Against SCs and STs,Fine,7,True,True,False,True,True,False,False,2,7
+654,SCST Act,Economic Offence,Both,68,True,True,False,False,True,True,False,3,204
+655,SCST Act,Offences Against the State,Both,37,False,False,False,False,False,False,False,0,111
+656,IPC,Offences Against the State,Fine,56,True,True,True,False,True,False,False,2,56
+657,IPC,Crimes Against Children,Fine,65,False,True,True,True,True,True,False,2,65
+658,CrPC,Crimes Against Foreigners,Fine,65,True,True,True,False,False,True,False,3,65
+659,IPC,Crimes Against SCs and STs,Imprisonment,47,False,True,False,True,False,False,False,1,94
+660,PMLA,Offences Against the State,Both,20,True,False,True,True,True,False,False,1,60
+661,SCST Act,Economic Offence,Imprisonment,19,False,True,True,False,True,True,False,2,38
+662,CrPC,Crimes Against Women,Both,29,False,True,True,True,False,False,False,1,87
+663,IPC,Cyber Crime,Both,74,False,True,False,False,False,True,False,2,222
+664,PMLA,Cyber Crime,Both,60,False,True,False,True,False,False,False,1,180
+665,PMLA,Cyber Crime,Both,18,True,False,True,False,False,True,False,2,54
+666,IPC,Crimes Against Foreigners,Both,92,True,True,False,True,True,False,False,2,276
+667,SCST Act,Crimes Against SCs and STs,Both,35,False,False,True,True,True,True,True,1,105
+668,IPC,Crimes Against Children,Both,43,True,True,True,False,False,True,False,3,129
+669,CrPC,Offences Against the State,Imprisonment,111,True,False,True,False,True,True,False,2,222
+670,IPC,Crimes Against Women,Fine,95,True,False,True,False,True,True,False,2,95
+671,PMLA,Economic Offence,Fine,91,True,True,False,False,False,True,False,3,91
+672,IPC,Crimes Against Women,Imprisonment,11,True,True,False,True,True,False,False,2,22
+673,SCST Act,Economic Offence,Imprisonment,49,False,False,False,False,True,False,False,0,98
+674,NDPS,Crimes Against Foreigners,Imprisonment,113,False,False,False,False,True,True,True,1,226
+675,IPC,Crimes Against SCs and STs,Imprisonment,38,False,True,True,True,False,False,False,1,76
+676,SCST Act,Cyber Crime,Both,64,False,False,False,False,False,False,False,0,192
+677,SCST Act,Crimes Against SCs and STs,Fine,69,True,False,True,False,True,False,False,1,69
+678,PMLA,Crimes Against Foreigners,Both,8,True,False,False,True,False,False,False,1,24
+679,SCST Act,Crimes Against Children,Fine,34,False,True,False,False,False,False,False,1,34
+680,SCST Act,Crimes Against Children,Fine,48,True,False,False,False,False,False,False,1,48
+681,SCST Act,Crimes Against Foreigners,Imprisonment,116,True,False,True,False,True,True,False,2,232
+682,SCST Act,Economic Offence,Both,56,False,False,True,False,True,False,False,0,168
+683,CrPC,Offences Against the State,Imprisonment,76,True,True,True,False,False,False,False,2,152
+684,CrPC,Offences Against the State,Both,102,False,True,True,False,True,False,False,1,306
+685,PMLA,Economic Offence,Fine,65,False,False,False,True,True,True,True,1,65
+686,IPC,Crimes Against Children,Imprisonment,31,True,True,True,False,True,False,False,2,62
+687,SCST Act,Crimes Against Children,Imprisonment,4,True,False,True,True,True,False,False,1,8
+688,IPC,Crimes Against Children,Fine,113,False,True,False,True,True,False,False,1,113
+689,IPC,Crimes Against SCs and STs,Fine,109,False,True,False,True,False,True,False,2,109
+690,PMLA,Crimes Against Children,Fine,50,True,False,True,True,True,False,False,1,50
+691,SCST Act,Crimes Against Women,Imprisonment,69,False,True,False,False,True,True,False,2,138
+692,SCST Act,Cyber Crime,Both,30,False,True,True,False,True,False,False,1,90
+693,NDPS,Crimes Against Children,Imprisonment,88,False,True,False,False,False,True,False,2,176
+694,IPC,Economic Offence,Both,59,True,False,True,True,False,True,False,2,177
+695,IPC,Cyber Crime,Imprisonment,67,False,True,True,False,False,True,False,2,134
+696,CrPC,Crimes Against SCs and STs,Imprisonment,75,True,True,True,False,True,False,False,2,150
+697,NDPS,Economic Offence,Fine,45,False,False,True,False,False,True,True,1,45
+698,CrPC,Cyber Crime,Both,4,True,True,True,True,False,True,False,3,12
+699,CrPC,Economic Offence,Imprisonment,26,False,True,False,True,False,True,False,2,52
+700,CrPC,Crimes Against SCs and STs,Imprisonment,27,True,True,True,False,False,True,False,3,54
+701,PMLA,Crimes Against Women,Fine,46,True,True,True,True,True,False,False,2,46
+702,PMLA,Crimes Against SCs and STs,Fine,118,True,True,True,True,False,False,False,2,118
+703,CrPC,Crimes Against SCs and STs,Both,107,False,False,True,False,False,False,False,0,321
+704,NDPS,Economic Offence,Imprisonment,64,False,False,True,True,True,False,False,0,128
+705,IPC,Crimes Against Foreigners,Both,91,False,True,False,True,True,True,False,2,273
+706,NDPS,Offences Against the State,Imprisonment,106,True,True,False,False,False,False,False,2,212
+707,SCST Act,Crimes Against Children,Both,51,False,True,True,True,True,True,False,2,153
+708,PMLA,Crimes Against Children,Fine,50,True,False,False,True,False,False,False,1,50
+709,IPC,Crimes Against Women,Imprisonment,6,False,False,True,True,True,False,False,0,12
+710,IPC,Crimes Against Women,Both,59,True,True,False,True,True,False,False,2,177
+711,SCST Act,Crimes Against Children,Fine,15,True,True,False,True,False,True,False,3,15
+712,SCST Act,Offences Against the State,Fine,117,True,False,True,True,True,False,False,1,117
+713,CrPC,Crimes Against Children,Both,30,False,True,False,True,False,False,False,1,90
+714,PMLA,Crimes Against Foreigners,Imprisonment,42,False,False,False,True,True,False,False,0,84
+715,PMLA,Offences Against the State,Imprisonment,101,False,False,True,False,False,True,True,1,202
+716,NDPS,Crimes Against Women,Fine,37,True,True,True,False,True,False,False,2,37
+717,CrPC,Cyber Crime,Imprisonment,42,True,False,False,False,True,False,False,1,84
+718,CrPC,Economic Offence,Imprisonment,101,False,True,False,False,True,True,False,2,202
+719,CrPC,Crimes Against Foreigners,Imprisonment,35,False,True,False,True,True,True,False,2,70
+720,CrPC,Crimes Against Foreigners,Fine,87,False,True,True,False,True,False,False,1,87
+721,PMLA,Crimes Against Women,Both,6,True,True,False,False,False,False,False,2,18
+722,PMLA,Crimes Against Women,Imprisonment,68,True,True,False,True,True,False,False,2,136
+723,CrPC,Crimes Against SCs and STs,Fine,18,True,True,False,True,False,True,False,3,18
+724,NDPS,Crimes Against Foreigners,Fine,73,True,False,True,True,False,True,False,2,73
+725,IPC,Crimes Against SCs and STs,Both,113,True,False,True,True,False,True,False,2,339
+726,IPC,Crimes Against SCs and STs,Imprisonment,29,False,False,True,True,True,False,False,0,58
+727,NDPS,Economic Offence,Imprisonment,77,True,False,True,False,False,True,False,2,154
+728,CrPC,Crimes Against SCs and STs,Both,59,True,True,False,True,True,False,False,2,177
+729,PMLA,Offences Against the State,Both,47,True,False,True,False,False,True,False,2,141
+730,IPC,Crimes Against Children,Fine,116,True,False,False,False,False,True,False,2,116
+731,SCST Act,Cyber Crime,Fine,17,True,False,False,True,False,True,False,2,17
+732,SCST Act,Crimes Against Women,Both,109,False,True,False,False,False,False,False,1,327
+733,NDPS,Offences Against the State,Imprisonment,96,True,False,False,False,False,False,False,1,192
+734,CrPC,Cyber Crime,Fine,112,True,True,True,True,True,False,False,2,112
+735,IPC,Crimes Against Foreigners,Fine,22,True,False,True,False,False,False,False,1,22
+736,CrPC,Crimes Against Foreigners,Imprisonment,68,False,True,True,False,False,True,False,2,136
+737,IPC,Crimes Against Foreigners,Fine,69,False,True,True,False,True,False,False,1,69
+738,NDPS,Offences Against the State,Imprisonment,37,False,False,True,True,True,True,True,1,74
+739,NDPS,Offences Against the State,Imprisonment,105,True,True,False,True,True,False,False,2,210
+740,SCST Act,Crimes Against Women,Imprisonment,49,False,True,True,True,False,False,False,1,98
+741,CrPC,Crimes Against Children,Both,13,True,False,True,False,False,True,False,2,39
+742,SCST Act,Crimes Against SCs and STs,Both,34,True,False,True,True,False,True,False,2,102
+743,CrPC,Crimes Against Foreigners,Both,109,False,False,True,False,False,False,False,0,327
+744,SCST Act,Economic Offence,Imprisonment,86,True,True,False,True,False,False,False,2,172
+745,PMLA,Crimes Against Children,Imprisonment,53,True,True,False,False,False,True,False,3,106
+746,PMLA,Economic Offence,Both,87,True,True,False,True,True,True,False,3,261
+747,PMLA,Crimes Against Women,Fine,51,False,False,False,True,True,True,True,1,51
+748,PMLA,Crimes Against Women,Imprisonment,3,True,True,False,False,False,True,False,3,6
+749,IPC,Crimes Against Women,Fine,42,True,True,True,True,False,True,False,3,42
+750,PMLA,Cyber Crime,Fine,98,False,True,False,False,False,False,False,1,98
+751,NDPS,Economic Offence,Imprisonment,32,True,True,False,True,False,False,False,2,64
+752,NDPS,Crimes Against Children,Imprisonment,109,True,True,False,True,False,False,False,2,218
+753,IPC,Crimes Against Children,Fine,51,False,True,True,False,True,False,False,1,51
+754,PMLA,Offences Against the State,Fine,113,True,True,True,False,True,True,False,3,113
+755,PMLA,Offences Against the State,Both,85,True,False,False,False,False,True,False,2,255
+756,PMLA,Crimes Against Foreigners,Both,46,True,False,True,True,True,True,False,2,138
+757,SCST Act,Offences Against the State,Imprisonment,108,True,False,True,False,False,False,False,1,216
+758,CrPC,Crimes Against Women,Both,21,True,True,False,True,False,True,False,3,63
+759,SCST Act,Crimes Against Children,Both,44,False,True,True,False,False,True,False,2,132
+760,CrPC,Economic Offence,Both,11,False,False,True,False,True,False,False,0,33
+761,PMLA,Crimes Against Women,Both,103,False,True,True,False,True,False,False,1,309
+762,PMLA,Cyber Crime,Fine,68,False,False,False,False,False,False,False,0,68
+763,SCST Act,Offences Against the State,Imprisonment,115,True,True,False,False,True,True,False,3,230
+764,SCST Act,Crimes Against Women,Both,1,True,True,False,False,True,True,False,3,3
+765,CrPC,Crimes Against Women,Fine,92,True,False,True,True,False,False,False,1,92
+766,NDPS,Cyber Crime,Fine,63,True,False,False,False,True,False,False,1,63
+767,CrPC,Crimes Against SCs and STs,Fine,24,True,False,True,True,True,True,False,2,24
+768,SCST Act,Crimes Against Children,Both,99,False,False,True,False,False,False,False,0,297
+769,SCST Act,Economic Offence,Both,13,False,False,True,False,False,True,True,1,39
+770,IPC,Crimes Against Foreigners,Imprisonment,111,True,True,False,False,True,False,False,2,222
+771,SCST Act,Crimes Against SCs and STs,Both,98,True,True,False,True,False,False,False,2,294
+772,IPC,Offences Against the State,Both,11,True,True,False,True,True,False,False,2,33
+773,NDPS,Crimes Against Women,Fine,100,False,False,False,False,False,True,True,1,100
+774,CrPC,Cyber Crime,Imprisonment,51,True,False,True,True,False,True,False,2,102
+775,CrPC,Cyber Crime,Both,17,True,False,False,False,False,False,False,1,51
+776,IPC,Crimes Against Children,Both,99,True,False,True,False,False,True,False,2,297
+777,CrPC,Crimes Against SCs and STs,Fine,82,False,False,False,True,True,False,False,0,82
+778,SCST Act,Crimes Against Foreigners,Fine,104,True,False,False,True,False,False,False,1,104
+779,PMLA,Crimes Against Children,Both,86,False,True,False,True,False,True,False,2,258
+780,IPC,Crimes Against Women,Imprisonment,24,False,True,True,True,False,True,False,2,48
+781,CrPC,Crimes Against Children,Imprisonment,19,False,True,True,False,True,True,False,2,38
+782,IPC,Economic Offence,Fine,37,False,True,True,True,True,True,False,2,37
+783,IPC,Cyber Crime,Fine,103,False,True,True,True,False,False,False,1,103
+784,PMLA,Cyber Crime,Both,85,False,False,True,False,False,True,True,1,255
+785,SCST Act,Offences Against the State,Fine,8,True,False,False,True,False,True,False,2,8
+786,IPC,Offences Against the State,Both,28,True,False,True,True,False,False,False,1,84
+787,CrPC,Crimes Against Foreigners,Imprisonment,5,True,False,True,True,False,False,False,1,10
+788,NDPS,Crimes Against Women,Imprisonment,17,False,False,True,True,False,False,False,0,34
+789,IPC,Economic Offence,Both,101,True,False,True,False,True,False,False,1,303
+790,IPC,Crimes Against SCs and STs,Fine,36,False,True,False,False,False,True,False,2,36
+791,PMLA,Crimes Against Children,Imprisonment,118,False,False,True,True,False,True,True,1,236
+792,SCST Act,Crimes Against Foreigners,Fine,19,False,False,False,True,False,False,False,0,19
+793,NDPS,Crimes Against Women,Imprisonment,64,True,False,False,False,False,False,False,1,128
+794,CrPC,Offences Against the State,Both,91,False,False,False,True,False,True,True,1,273
+795,NDPS,Crimes Against Children,Both,117,False,True,True,True,False,True,False,2,351
+796,CrPC,Offences Against the State,Both,98,True,True,False,True,True,True,False,3,294
+797,SCST Act,Crimes Against Children,Imprisonment,11,True,False,True,True,True,True,False,2,22
+798,CrPC,Crimes Against SCs and STs,Fine,54,False,True,True,True,True,True,False,2,54
+799,PMLA,Crimes Against Women,Fine,45,False,True,True,True,True,False,False,1,45
+800,PMLA,Crimes Against Children,Fine,47,True,False,True,True,True,False,False,1,47
+801,PMLA,Economic Offence,Imprisonment,12,True,False,True,True,True,False,False,1,24
+802,PMLA,Crimes Against Foreigners,Imprisonment,118,True,False,False,True,False,False,False,1,236
+803,NDPS,Cyber Crime,Imprisonment,21,False,False,False,False,False,True,True,1,42
+804,SCST Act,Economic Offence,Imprisonment,118,True,False,True,False,False,False,False,1,236
+805,CrPC,Economic Offence,Imprisonment,11,True,True,False,False,False,True,False,3,22
+806,CrPC,Crimes Against Foreigners,Fine,103,True,False,True,True,False,True,False,2,103
+807,PMLA,Cyber Crime,Imprisonment,92,False,False,False,True,False,True,True,1,184
+808,PMLA,Economic Offence,Imprisonment,5,True,False,False,False,True,True,False,2,10
+809,IPC,Crimes Against Children,Fine,81,True,True,False,True,False,True,False,3,81
+810,SCST Act,Crimes Against Children,Imprisonment,56,True,False,False,False,True,True,False,2,112
+811,NDPS,Crimes Against Children,Fine,20,True,False,False,True,True,True,False,2,20
+812,CrPC,Cyber Crime,Fine,41,True,False,True,False,False,False,False,1,41
+813,IPC,Economic Offence,Both,46,False,True,True,False,False,True,False,2,138
+814,IPC,Cyber Crime,Both,12,False,False,False,False,False,False,False,0,36
+815,CrPC,Crimes Against Children,Both,70,False,False,True,True,False,False,False,0,210
+816,NDPS,Crimes Against Foreigners,Both,17,True,False,False,False,False,True,False,2,51
+817,IPC,Economic Offence,Imprisonment,115,False,True,True,True,False,True,False,2,230
+818,IPC,Economic Offence,Both,19,False,False,False,True,False,False,False,0,57
+819,SCST Act,Offences Against the State,Fine,26,False,False,False,True,True,False,False,0,26
+820,NDPS,Offences Against the State,Imprisonment,48,True,False,False,True,False,False,False,1,96
+821,IPC,Crimes Against SCs and STs,Both,108,True,True,True,True,False,False,False,2,324
+822,NDPS,Crimes Against Women,Fine,108,False,False,True,True,True,True,True,1,108
+823,CrPC,Offences Against the State,Imprisonment,52,False,False,False,True,False,True,True,1,104
+824,PMLA,Cyber Crime,Imprisonment,96,True,False,False,False,False,True,False,2,192
+825,IPC,Offences Against the State,Both,70,True,True,True,False,True,False,False,2,210
+826,SCST Act,Crimes Against SCs and STs,Imprisonment,55,False,True,True,False,False,True,False,2,110
+827,CrPC,Economic Offence,Fine,100,True,False,True,True,False,False,False,1,100
+828,NDPS,Crimes Against SCs and STs,Imprisonment,102,False,True,True,True,False,True,False,2,204
+829,CrPC,Economic Offence,Fine,75,True,True,True,True,False,False,False,2,75
+830,IPC,Crimes Against Foreigners,Imprisonment,33,False,True,False,True,False,True,False,2,66
+831,NDPS,Crimes Against Foreigners,Both,62,False,False,True,False,False,True,True,1,186
+832,PMLA,Economic Offence,Fine,88,True,False,False,True,True,False,False,1,88
+833,CrPC,Crimes Against Women,Imprisonment,23,False,True,False,False,False,False,False,1,46
+834,IPC,Offences Against the State,Imprisonment,15,False,True,True,True,False,False,False,1,30
+835,SCST Act,Cyber Crime,Imprisonment,27,False,True,True,False,True,False,False,1,54
+836,NDPS,Cyber Crime,Fine,75,True,False,False,True,True,False,False,1,75
+837,CrPC,Crimes Against Children,Fine,64,True,False,True,False,False,True,False,2,64
+838,CrPC,Economic Offence,Fine,115,True,True,False,True,True,False,False,2,115
+839,PMLA,Cyber Crime,Both,114,False,True,True,False,False,True,False,2,342
+840,PMLA,Crimes Against Women,Both,81,True,True,True,True,False,True,False,3,243
+841,SCST Act,Economic Offence,Fine,51,False,True,True,False,True,True,False,2,51
+842,SCST Act,Crimes Against Women,Imprisonment,53,False,False,False,False,False,True,True,1,106
+843,IPC,Cyber Crime,Both,78,True,True,True,True,False,True,False,3,234
+844,IPC,Cyber Crime,Fine,91,True,False,False,False,True,False,False,1,91
+845,SCST Act,Crimes Against Children,Imprisonment,82,False,True,True,True,True,False,False,1,164
+846,SCST Act,Cyber Crime,Both,92,False,True,False,True,True,True,False,2,276
+847,NDPS,Economic Offence,Imprisonment,51,True,True,True,True,True,True,False,3,102
+848,PMLA,Crimes Against Foreigners,Imprisonment,47,True,True,False,False,False,False,False,2,94
+849,IPC,Economic Offence,Imprisonment,111,True,True,False,False,True,False,False,2,222
+850,PMLA,Economic Offence,Imprisonment,4,False,False,False,True,True,True,True,1,8
+851,PMLA,Crimes Against Children,Both,7,False,True,False,True,True,False,False,1,21
+852,SCST Act,Crimes Against Children,Both,109,False,True,False,False,True,False,False,1,327
+853,NDPS,Cyber Crime,Both,35,False,True,False,False,True,False,False,1,105
+854,CrPC,Crimes Against SCs and STs,Fine,48,False,False,True,False,False,True,True,1,48
+855,NDPS,Crimes Against SCs and STs,Both,73,True,False,False,True,True,False,False,1,219
+856,NDPS,Crimes Against Children,Imprisonment,72,True,False,False,True,False,True,False,2,144
+857,PMLA,Cyber Crime,Both,116,False,False,False,True,True,True,True,1,348
+858,NDPS,Crimes Against SCs and STs,Imprisonment,45,False,True,True,True,True,True,False,2,90
+859,IPC,Cyber Crime,Fine,81,True,True,True,True,True,True,False,3,81
+860,PMLA,Cyber Crime,Imprisonment,81,True,True,True,False,True,True,False,3,162
+861,IPC,Cyber Crime,Imprisonment,113,True,False,False,True,True,False,False,1,226
+862,CrPC,Offences Against the State,Imprisonment,97,True,True,True,False,True,True,False,3,194
+863,PMLA,Economic Offence,Fine,96,False,True,True,False,True,True,False,2,96
+864,CrPC,Cyber Crime,Both,72,True,False,False,True,True,True,False,2,216
+865,PMLA,Offences Against the State,Both,19,False,False,False,False,False,False,False,0,57
+866,SCST Act,Crimes Against Children,Fine,63,True,False,True,True,True,False,False,1,63
+867,NDPS,Crimes Against SCs and STs,Imprisonment,38,True,True,False,False,False,False,False,2,76
+868,SCST Act,Economic Offence,Both,67,True,True,False,True,True,False,False,2,201
+869,CrPC,Crimes Against Foreigners,Fine,59,False,False,False,True,False,False,False,0,59
+870,NDPS,Crimes Against SCs and STs,Both,69,False,True,False,False,True,False,False,1,207
+871,PMLA,Economic Offence,Fine,13,True,False,True,True,True,False,False,1,13
+872,NDPS,Crimes Against Foreigners,Imprisonment,47,False,False,False,False,True,True,True,1,94
+873,IPC,Crimes Against SCs and STs,Both,110,False,True,True,True,False,True,False,2,330
+874,NDPS,Economic Offence,Fine,61,True,False,True,True,False,False,False,1,61
+875,IPC,Crimes Against SCs and STs,Both,31,True,False,True,True,False,True,False,2,93
+876,NDPS,Crimes Against SCs and STs,Both,119,False,False,True,False,False,True,True,1,357
+877,IPC,Crimes Against Foreigners,Both,80,False,True,False,False,True,False,False,1,240
+878,CrPC,Crimes Against SCs and STs,Both,114,False,False,False,True,True,True,True,1,342
+879,SCST Act,Crimes Against SCs and STs,Fine,96,True,False,False,False,True,True,False,2,96
+880,PMLA,Crimes Against Foreigners,Imprisonment,22,True,False,True,True,False,False,False,1,44
+881,NDPS,Crimes Against Children,Fine,93,False,False,True,False,True,True,True,1,93
+882,SCST Act,Cyber Crime,Fine,86,True,False,True,False,False,False,False,1,86
+883,PMLA,Crimes Against Women,Fine,43,True,False,False,True,False,False,False,1,43
+884,PMLA,Offences Against the State,Imprisonment,67,False,False,True,True,False,True,True,1,134
+885,IPC,Crimes Against Women,Both,54,False,True,False,True,False,True,False,2,162
+886,CrPC,Crimes Against Women,Both,10,True,True,False,True,False,True,False,3,30
+887,CrPC,Economic Offence,Both,42,True,False,False,True,True,False,False,1,126
+888,SCST Act,Cyber Crime,Imprisonment,64,False,True,False,False,False,False,False,1,128
+889,CrPC,Economic Offence,Both,21,True,True,True,False,False,False,False,2,63
+890,NDPS,Cyber Crime,Imprisonment,80,True,False,False,True,True,True,False,2,160
+891,CrPC,Crimes Against Foreigners,Both,76,False,True,True,True,False,True,False,2,228
+892,SCST Act,Crimes Against Foreigners,Both,66,False,False,False,True,False,False,False,0,198
+893,CrPC,Cyber Crime,Fine,41,True,False,True,False,True,True,False,2,41
+894,NDPS,Crimes Against SCs and STs,Imprisonment,24,True,False,True,True,True,True,False,2,48
+895,IPC,Crimes Against Children,Fine,35,True,False,False,True,True,False,False,1,35
+896,SCST Act,Crimes Against SCs and STs,Fine,56,False,False,False,False,False,False,False,0,56
+897,IPC,Crimes Against Children,Fine,30,True,True,False,False,True,True,False,3,30
+898,IPC,Economic Offence,Imprisonment,57,True,False,True,False,True,False,False,1,114
+899,IPC,Crimes Against Children,Imprisonment,94,False,True,False,False,True,True,False,2,188
+900,PMLA,Economic Offence,Both,47,False,False,False,True,False,False,False,0,141
+901,PMLA,Crimes Against Foreigners,Fine,35,True,False,True,False,True,False,False,1,35
+902,IPC,Crimes Against Women,Both,19,False,False,False,False,False,False,False,0,57
+903,SCST Act,Crimes Against Foreigners,Fine,114,False,True,True,True,False,True,False,2,114
+904,NDPS,Crimes Against Foreigners,Imprisonment,8,True,False,False,True,True,True,False,2,16
+905,NDPS,Crimes Against Women,Imprisonment,26,False,False,True,True,False,False,False,0,52
+906,CrPC,Crimes Against Children,Imprisonment,113,False,False,True,False,False,False,False,0,226
+907,SCST Act,Crimes Against Children,Fine,104,True,False,False,True,True,False,False,1,104
+908,PMLA,Economic Offence,Imprisonment,71,False,True,True,False,False,True,False,2,142
+909,IPC,Crimes Against SCs and STs,Fine,30,True,False,False,False,True,False,False,1,30
+910,CrPC,Economic Offence,Both,7,True,True,False,False,False,False,False,2,21
+911,NDPS,Crimes Against SCs and STs,Fine,67,False,False,True,True,False,False,False,0,67
+912,PMLA,Crimes Against Foreigners,Both,65,False,True,False,False,True,False,False,1,195
+913,PMLA,Crimes Against Women,Fine,36,False,True,True,True,True,True,False,2,36
+914,IPC,Crimes Against Foreigners,Both,25,True,False,True,True,False,True,False,2,75
+915,NDPS,Cyber Crime,Imprisonment,37,False,False,True,True,False,False,False,0,74
+916,SCST Act,Crimes Against Children,Both,1,True,True,True,False,True,True,False,3,3
+917,PMLA,Crimes Against SCs and STs,Imprisonment,15,False,False,True,False,False,True,True,1,30
+918,IPC,Economic Offence,Imprisonment,37,False,False,True,False,False,True,True,1,74
+919,SCST Act,Crimes Against Women,Both,13,False,False,True,True,False,False,False,0,39
+920,NDPS,Crimes Against SCs and STs,Fine,104,True,True,True,False,False,True,False,3,104
+921,PMLA,Economic Offence,Fine,8,False,False,False,False,True,True,True,1,8
+922,SCST Act,Crimes Against Children,Fine,5,False,False,False,False,True,True,True,1,5
+923,SCST Act,Crimes Against Foreigners,Fine,60,True,False,True,False,True,False,False,1,60
+924,SCST Act,Crimes Against Children,Fine,73,True,True,False,False,True,False,False,2,73
+925,PMLA,Offences Against the State,Imprisonment,1,False,False,False,True,True,True,True,1,2
+926,PMLA,Cyber Crime,Fine,36,False,True,False,True,True,True,False,2,36
+927,CrPC,Offences Against the State,Imprisonment,35,False,False,False,True,False,False,False,0,70
+928,NDPS,Crimes Against Women,Imprisonment,66,True,True,False,True,True,False,False,2,132
+929,IPC,Crimes Against SCs and STs,Imprisonment,63,True,False,False,False,False,True,False,2,126
+930,SCST Act,Crimes Against Women,Both,104,True,False,True,True,False,True,False,2,312
+931,CrPC,Crimes Against Foreigners,Both,23,True,True,False,False,False,False,False,2,69
+932,IPC,Economic Offence,Imprisonment,9,False,True,False,True,True,False,False,1,18
+933,CrPC,Crimes Against Children,Both,34,True,True,False,True,False,True,False,3,102
+934,PMLA,Offences Against the State,Fine,46,True,False,False,True,True,False,False,1,46
+935,SCST Act,Offences Against the State,Fine,78,True,False,True,False,False,True,False,2,78
+936,IPC,Crimes Against Foreigners,Imprisonment,4,False,False,True,False,False,True,True,1,8
+937,IPC,Offences Against the State,Fine,30,False,False,True,True,True,True,True,1,30
+938,IPC,Crimes Against Foreigners,Imprisonment,95,True,True,True,False,False,False,False,2,190
+939,IPC,Crimes Against Women,Imprisonment,102,True,False,False,True,False,True,False,2,204
+940,IPC,Crimes Against Children,Fine,75,False,False,True,True,False,True,True,1,75
+941,CrPC,Crimes Against SCs and STs,Both,99,False,False,True,True,False,False,False,0,297
+942,SCST Act,Economic Offence,Fine,72,False,False,True,False,True,False,False,0,72
+943,PMLA,Crimes Against SCs and STs,Fine,3,False,False,True,True,False,True,True,1,3
+944,PMLA,Crimes Against Women,Imprisonment,14,False,False,False,True,False,True,True,1,28
+945,PMLA,Economic Offence,Imprisonment,60,False,False,True,True,True,False,False,0,120
+946,PMLA,Offences Against the State,Imprisonment,77,False,True,False,False,False,False,False,1,154
+947,CrPC,Cyber Crime,Imprisonment,45,False,False,True,True,False,False,False,0,90
+948,NDPS,Crimes Against Women,Both,96,True,False,False,False,False,True,False,2,288
+949,SCST Act,Crimes Against Women,Both,34,True,False,False,True,False,True,False,2,102
+950,IPC,Crimes Against Children,Both,45,True,False,True,False,True,True,False,2,135
+951,NDPS,Crimes Against SCs and STs,Imprisonment,61,True,True,True,True,False,False,False,2,122
+952,PMLA,Crimes Against Women,Imprisonment,83,True,True,True,True,True,True,False,3,166
+953,NDPS,Crimes Against Women,Imprisonment,102,True,True,True,False,False,False,False,2,204
+954,SCST Act,Offences Against the State,Both,16,False,True,False,False,False,True,False,2,48
+955,IPC,Offences Against the State,Imprisonment,66,False,True,False,True,False,False,False,1,132
+956,IPC,Economic Offence,Fine,40,True,True,True,False,True,True,False,3,40
+957,SCST Act,Crimes Against Foreigners,Fine,17,True,False,True,True,False,True,False,2,17
+958,SCST Act,Crimes Against Foreigners,Imprisonment,119,False,True,False,True,False,False,False,1,238
+959,PMLA,Cyber Crime,Fine,34,False,True,True,True,True,False,False,1,34
+960,IPC,Crimes Against Foreigners,Fine,106,False,False,False,False,True,True,True,1,106
+961,NDPS,Crimes Against Children,Both,16,True,True,True,True,True,False,False,2,48
+962,CrPC,Cyber Crime,Imprisonment,102,False,False,False,False,True,False,False,0,204
+963,CrPC,Economic Offence,Imprisonment,60,True,False,False,True,False,True,False,2,120
+964,SCST Act,Offences Against the State,Both,66,True,True,False,False,False,False,False,2,198
+965,PMLA,Crimes Against Foreigners,Fine,66,False,False,False,False,False,True,True,1,66
+966,CrPC,Crimes Against SCs and STs,Fine,90,False,True,False,True,False,True,False,2,90
+967,IPC,Offences Against the State,Imprisonment,13,True,True,True,False,True,False,False,2,26
+968,SCST Act,Crimes Against Children,Fine,56,False,False,False,True,False,False,False,0,56
+969,NDPS,Offences Against the State,Both,111,False,False,True,True,False,True,True,1,333
+970,SCST Act,Crimes Against Children,Both,31,True,True,False,True,False,True,False,3,93
+971,NDPS,Crimes Against Children,Imprisonment,34,False,False,False,True,False,True,True,1,68
+972,SCST Act,Crimes Against Children,Both,39,True,False,True,True,True,True,False,2,117
+973,SCST Act,Economic Offence,Both,67,True,True,True,False,False,True,False,3,201
+974,SCST Act,Crimes Against Children,Imprisonment,8,False,True,True,True,False,True,False,2,16
+975,NDPS,Crimes Against Children,Both,87,True,False,True,False,False,False,False,1,261
+976,NDPS,Crimes Against SCs and STs,Both,78,True,True,False,False,True,False,False,2,234
+977,SCST Act,Cyber Crime,Both,55,False,True,True,True,True,False,False,1,165
+978,CrPC,Crimes Against Women,Fine,27,False,True,False,False,False,True,False,2,27
+979,PMLA,Cyber Crime,Imprisonment,118,False,True,True,True,False,False,False,1,236
+980,PMLA,Crimes Against Children,Imprisonment,93,True,True,True,False,False,True,False,3,186
+981,PMLA,Crimes Against SCs and STs,Imprisonment,103,True,True,False,False,True,True,False,3,206
+982,NDPS,Offences Against the State,Fine,53,False,True,False,False,False,False,False,1,53
+983,NDPS,Crimes Against SCs and STs,Fine,39,True,False,True,True,False,True,False,2,39
+984,CrPC,Crimes Against Children,Imprisonment,65,False,True,False,False,False,True,False,2,130
+985,PMLA,Crimes Against SCs and STs,Fine,17,False,False,False,True,True,True,True,1,17
+986,PMLA,Crimes Against Foreigners,Imprisonment,105,True,False,False,False,False,True,False,2,210
+987,SCST Act,Crimes Against SCs and STs,Fine,30,False,False,False,False,False,True,True,1,30
+988,NDPS,Crimes Against Children,Both,53,True,True,False,False,True,True,False,3,159
+989,PMLA,Economic Offence,Both,13,True,True,False,False,True,False,False,2,39
+990,CrPC,Crimes Against Foreigners,Imprisonment,21,False,False,False,True,False,True,True,1,42
+991,CrPC,Crimes Against SCs and STs,Fine,19,True,True,False,True,True,True,False,3,19
+992,PMLA,Crimes Against Women,Fine,53,False,False,True,False,False,True,True,1,53
+993,NDPS,Crimes Against Women,Both,19,True,True,False,False,True,True,False,3,57
+994,CrPC,Crimes Against SCs and STs,Both,57,True,True,True,True,True,False,False,2,171
+995,SCST Act,Economic Offence,Fine,25,True,False,False,True,False,False,False,1,25
+996,CrPC,Offences Against the State,Fine,86,False,False,False,True,False,True,True,1,86
+997,IPC,Crimes Against Children,Fine,31,True,False,False,True,False,True,False,2,31
+998,IPC,Crimes Against Women,Fine,81,False,True,False,False,True,True,False,2,81
+999,NDPS,Offences Against the State,Fine,55,True,False,True,False,False,False,False,1,55
+1000,PMLA,Crimes Against SCs and STs,Fine,23,True,True,True,True,False,False,False,2,23
